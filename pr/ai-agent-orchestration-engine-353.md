@@ -106,30 +106,40 @@ AI 智能体编排引擎
 
 ### 核心算法
 
-**1. Agent基础匹配算法（简化版）**
+**1. Agent基础匹配算法（大幅简化版）**
 ```python
 class AgentMatcher:
     def match_best_agent(self, task, agents):
-        # 1. 基于技能标签的基础匹配
+        # 第一阶段：技能标签精确匹配
         task_skills = self.extract_task_skills(task)
         matching_agents = []
         
+        # 简单规则匹配：至少80%技能匹配
         for agent in agents:
             agent_skills = agent.skill_tags
-            # 计算技能匹配度
-            match_score = len(set(task_skills) & set(agent_skills)) / len(set(task_skills))
+            match_count = len(set(task_skills) & set(agent_skills))
+            match_ratio = match_count / len(task_skills)
             
-            # 考虑负载情况
-            load_factor = 1 - (agent.current_load / agent.max_capacity)
-            
-            # 综合评分
-            score = 0.8 * match_score + 0.2 * load_factor
-            
-            if score > 0.5:  # 匹配阈值
-                matching_agents.append((agent, score))
+            # 简单阈值匹配：技能匹配 > 80% 且负载 < 70%
+            if match_ratio >= 0.8 and agent.current_load < 0.7:
+                matching_agents.append(agent)
         
-        # 返回得分最高的Agent
-        return max(matching_agents, key=lambda x: x[1])[0] if matching_agents else None
+        # 第二阶段：负载均衡
+        if matching_agents:
+            # 选择负载最轻的Agent
+            return min(matching_agents, key=lambda x: x.current_load)
+        
+        # 第三阶段：降级匹配 - 50%技能匹配 + 负载 < 90%
+        fallback_agents = []
+        for agent in agents:
+            agent_skills = agent.skill_tags
+            match_count = len(set(task_skills) & set(agent_skills))
+            match_ratio = match_count / len(task_skills)
+            
+            if match_ratio >= 0.5 and agent.current_load < 0.9:
+                fallback_agents.append(agent)
+        
+        return fallback_agents[0] if fallback_agents else None
 ```
 
 **2. 任务拆解算法**
@@ -200,16 +210,32 @@ class TaskDecomposer:
 - [ ] Web界面（任务提交 + 进度查看）
 
 **市场验证策略**：
-- **开源社区试点**：在GitHub发布开源版本，收集早期用户反馈
-- **小微企业试用**：为10-20家中小企业提供免费试用，验证核心价值
-- **成功案例建设**：记录和展示早期用户的成功案例
-- **30天免费试用**：降低企业客户尝试门槛
+- **第一阶段：开源社区验证（1-2个月）**
+  - 在GitHub发布开源版本，集成到主流AI工具生态
+  - 与LangChain、AutoGen等框架集成，扩大开发者影响力
+  - 收集100+开发者反馈，验证核心功能需求
+  
+- **第二阶段：小微企业试点（2-3个月）**
+  - 选择10-20家中小企业提供免费试用
+  - 聚焦软件开发、内容创作、项目管理三大垂直领域
+  - 提供专属客户经理，深度收集使用反馈
+  
+- **第三阶段：企业级验证（第3个月）**
+  - 3-5个标杆企业客户，验证规模化部署能力
+  - 建立30天免费试用版，降低企业客户尝试门槛
+  - 打造成功案例库，用于后续市场推广
+  
+- **成功案例建设**：
+  - 详细记录每个试点客户的使用场景和效果
+  - 量化展示效率提升数据（目标：提升40%+）
+  - 制作视频案例和客户证言，增强市场说服力
 
 **成功标准**：
-- 开源项目获得100+ stars
-- 10个企业客户试用反馈
-- 任务完成效率提升 > 30%
-- 系统稳定性 > 98%
+- 开源项目获得500+ stars，100+ forks
+- 15-20个企业客户深度试用
+- 任务完成效率提升 > 40%（核心指标）
+- 系统稳定性 > 98.5%
+- 开发者满意度 > 4.5/5
 
 ### Phase 2: 功能完善（3个月）
 
@@ -258,10 +284,10 @@ class TaskDecomposer:
 
 ### 人力需求
 
-**MVP 阶段（3个月）**：10人
+**MVP 阶段（3个月）**：8人
 - **架构师1**：系统架构设计和技术选型
-- **后端开发4**：核心功能实现
-- **前端开发2**：Web界面开发
+- **后端开发3**：核心功能实现（减少1人，专注核心）
+- **前端开发1**：Web界面开发（简化界面，专注核心功能）
 - **产品经理1**：需求定义和用户体验
 - **测试1**：质量保证和用户测试
 - **DevOps工程师1**：容器化部署和运维（新增）
@@ -272,12 +298,12 @@ class TaskDecomposer:
 
 ### 预估成本（月）
 
-- 人力成本：¥65万（10人 × ¥6.5万/月）
-- 云服务器：¥5万
-- API 调用：¥3万
-- 市场推广：¥5万
-- 其他：¥2万
-- **总计**：¥80万/月（MVP阶段）
+- 人力成本：¥52万（8人 × ¥6.5万/月）
+- 云服务器：¥4万（优化资源配置，考虑弹性扩缩容）
+- API 调用：¥2万（优化调用策略，缓存热点查询）
+- 市场推广：¥3万（专注开源社区和试点客户）
+- 其他：¥1.5万
+- **总计**：¥62.5万/月（MVP阶段）
 
 ---
 
@@ -289,8 +315,31 @@ class TaskDecomposer:
 |------|------|------|
 | 开发者版 | 5个Agent，1000次任务/月 | ¥999/月 |
 | 团队版 | 20个Agent，10000次任务/月 | ¥4999/月 |
-| 企业版 | 无限Agent，私有化部署 | ¥19999/月 |
+| 企业版 | 无限Agent，私有化部署，高级安全功能 | ¥19999/月 |
 | 定制版 | 定制化开发 + 专属支持 | 面议 |
+
+### 数据隐私保护
+
+**1. 数据收集最小化**
+- 仅收集任务描述类型和执行结果，不收集具体业务内容
+- 用户可选择开启数据贡献参与模型优化
+- 提供数据导出和删除功能
+
+**2. 数据安全措施**
+- 端到端加密传输和存储
+- 敏感任务数据自动脱敏处理
+- 定期安全审计和渗透测试
+
+**3. 合规认证**
+- ISO 27001信息安全管理体系认证
+- SOC 2 Type II服务组织控制报告
+- GDPR和CCPA数据保护合规
+- 可选本地化部署，满足政府和企业数据主权要求
+
+**4. 审计和透明度**
+- 详细的操作日志记录
+- 定期发布安全报告
+- 建立用户数据保护委员会，监督隐私保护措施执行
 
 ### 收入预估
 
@@ -344,10 +393,46 @@ class TaskDecomposer:
 | 风险 | 等级 | 缓解措施 |
 |------|------|---------|
 | 技术风险 - 系统复杂性 | 中 | 模块化设计、完善的测试、分阶段上线 |
+| 技术风险 - API依赖风险 | 高 | **多供应商策略**：OpenAI + Claude + GLM-4，避免单点依赖<br>**本地缓存**：热点任务解析结果本地缓存，减少API调用<br>**降级机制**：API失败时启用本地规则引擎，确保核心功能可用 |
 | 市场风险 - 企业接受度 | 中 | 开源先行、试点验证、成功案例、免费试用 |
 | 竞争风险 | 中 | 快速迭代、技术壁垒、生态建设 |
 | 安全风险 | 高 | 端到端加密、权限控制、安全审计 |
+| 数据隐私风险 | 高 | **数据最小化**：仅收集必要任务数据，不存储敏感信息<br>**匿名化处理**：用户任务数据匿名化分析<br>**合规认证**：通过ISO 27001和SOC 2认证，增强客户信任 |
 | 人才风险 | 中 | 核心团队激励、知识文档化、专业岗位配置 |
+
+### API依赖风险详细对策
+
+**1. 多供应商API策略**
+```python
+class NLPService:
+    def __init__(self):
+        self.providers = {
+            'openai': OpenAIService(),
+            'anthropic': AnthropicService(),
+            'local': LocalRuleEngine()  # 本地降级引擎
+        }
+    
+    def parse_task(self, task_description):
+        # 优先使用OpenAI，失败时切换到Anthropic
+        try:
+            return self.providers['openai'].parse(task_description)
+        except APIError:
+            try:
+                return self.providers['anthropic'].parse(task_description)
+            except APIError:
+                # 最后使用本地规则引擎
+                return self.providers['local'].parse(task_description)
+```
+
+**2. 智能缓存策略**
+- 热点任务类型解析结果缓存1小时
+- 相似任务模式智能匹配复用
+- 定期更新缓存，保持准确性
+
+**3. 成本控制机制**
+- API调用前进行必要性评估
+- 批量处理相似任务，减少API调用次数
+- 设置月度预算预警机制
 
 ---
 
