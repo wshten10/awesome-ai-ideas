@@ -1,4 +1,4 @@
-# AI智能农业决策与资源协调平台
+# AI Smart Agricultural Decision and Resource Coordination Platform
 
 > **一句话卖点**：AI-powered agriculture, data-driven precision farming, 25% yield increase, 50% cost reduction
 
