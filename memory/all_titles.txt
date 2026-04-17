@@ -1,0 +1,636 @@
+﻿馃挕 AI Safety Guardian: Community-Led Monitoring System
+feat: AI Code Analysis Tool (Issue #1098)
+feat: AI Web Automation Framework (Issue #1099)
+feat: Adaptive Learning Systems (Issue #1091)
+feat: AI ChainShield AI (Issue #1096)
+feat: AI MindCanvas AI (Issue #1104)
+馃挕 [for Smallholder Farmers & Rural Communities] ClimateFarm AI - From climate uncertainty to resilient farming with AI-powered crop management and resource optimization platform
+馃挕 [for Artists & Creative Professionals] MindCanvas AI - From creative barriers to direct brain-to-artistic expression
+馃挕 [for Rural Students & Educators] RuralEdu AI - From educational inequality to personalized learning excellence with AI-powered rural education equity platform
+馃挕 [for Space Agencies & Aerospace Engineers] AstroTrack AI - From mission planning chaos to autonomous space exploration with AI-powered trajectory optimization and anomaly detection system
+馃挕 [for Oceanographers & Marine Scientists] DeepSea AI - From data collection chaos to unified ocean intelligence with AI-powered deep sea research assistant
+馃挕 Modular AI Agent Workbench
+馃挕 AI Web Automation and Testing Framework
+馃挕 AI-Powered Code Analysis and Documentation Generator
+馃挕 AI-Powered Personal Knowledge Assistant with Multimodal Search
+馃挕 [for Global Supply Chain Managers & Logistics Directors] ChainShield AI - From reactive crisis response to proactive supply chain resilience with AI-powered risk prediction and automation platform
+馃挕 AI-Powered Code Review Assistant with Emotion Intelligence
+馃挕 [AR/VR Spatial Computing] WildSpace - Promptable 3D Spatial Intelligence for Mixed Reality
+馃挕 [for Elderly & Non-Technical Homeowners] HomeGuard AI - From home repair anxiety to confident maintenance with AI-powered home assistance system
+馃挕 Adaptive Learning Systems: Integrating Sleep Science with AI Personalization
+馃挕 AI-Powered Privacy Auditing: Building Trust in Data Ecosystems
+馃挕 Smart EV Fleet Management: Bilevel Optimization Platform
+馃挕 Self-Supervised Search Agents: Cycle-Consistent Training
+馃挕 Natural Language to Optimization Models: Text2Model Platform
+馃挕 Memory-Enhanced AI Agents: Dual-Trace Architecture
+馃挕 Interactive Learning Platform: PAL-style AI Tutoring
+[Idea] Collaborative Prompt Engineering Platform with AI-Assisted Optimization
+[Idea] Real-Time Video Enhancement with Generative AI
+[Idea] Self-Organizing Personal Knowledge Graph with RAG and Temporal Reasoning
+馃挕 [Idea] AI Browser Automation with Natural Language Commands
+[Idea] Natural Language Browser Automation with Visual Understanding
+馃挕 AI 涓汉鍋ュ悍绠＄悊鍔╂墜
+馃挕 AI 涓€у寲瀛︿範璺緞瑙勫垝甯?2026-04-15T23:15:03Z
+馃挕 AI 浠ｇ爜瀹℃煡鏅鸿兘鍔╂墜
+馃挕 [for Communities & Emergency Services] SafeGuard AI - From reactive crisis management to proactive public safety intelligence system
+馃挕 [for Elderly Population & Caregivers] MindAge AI - From cognitive decline and isolation to independent aging with comprehensive AI-powered elderly care ecosystem
+馃挕 AI椹卞姩鐨勮嚜鍔ㄥ寲宸ヤ綔娴佷紭鍖栵細浠庨噸澶嶆€т换鍔″埌鍒涙剰宀椾綅杞瀷
+馃挕 [for Rural Communities & Underserved Populations] MindBridge AI - From mental health stigma and limited access to culturally intelligent mental wellness support system
+馃挕 [for Mental Health Professionals & Digital Natives] EmoTwin AI - From emotional fragmentation to integrated digital self-care with AI-powered emotional computing platform
+馃挕 [for Rural Healthcare Workers] MediConnect AI - From isolated clinics to intelligent healthcare access with AI-powered medical assistance
+馃挕 Adaptive Prompt Engineering Marketplace
+馃挕 AI Memory Consolidation Network
+馃挕 AI Vision Studio - 鏃犱唬鐮佽绠楁満瑙嗚搴旂敤骞冲彴
+馃挕 MiniLLM - 鏈湴杩愯鐨勮秴灏忓瀷 LLM 宸ュ叿闆?2026-04-15T08:05:41Z
+馃挕 DeepCrawl - AI 椹卞姩鐨勭綉绔欐櫤鑳芥姄鍙栧紩鎿?2026-04-15T08:05:25Z
+馃挕 LangFlow 鎻掍欢甯傚満 - 鏃犱唬鐮?AI 搴旂敤鐨勭敓鎬佺郴缁?2026-04-15T08:05:14Z
+馃挕 AI Agent Swarm for Social Media Management
+馃挕 [for Supply Chain & Procurement Teams] ChainGuard AI - from supply chain chaos to predictive resilience intelligence
+馃挕 AI-Powered Code Review Assistant with Real-time Collaboration
+馃挕 AI-Driven Personalized Recipe Creator & Nutritional Optimizer
+馃挕 [for Blue-Collar Workers] ManuAI Pro - From equipment failures to operational excellence with AI-powered manufacturing assistant
+馃挕 AI瀹夊叏锛氭櫤鑳藉畨闃插畧鎶よ€?- 棰勬祴鎬у▉鑳佺洃娴嬩笌鑷姩鍖栦繚鎶ょ郴缁?2026-04-15T01:06:37Z
+馃挕 DeceptionResilient AI: Advanced Training Platform for Critical Reasoning under Uncertainty
+馃挕 EpistemicMind: Intelligent Knowledge Management System with Cognitive Reasoning
+馃挕 SportPredict AI: Next-Generation Sports Analytics & Tactical Prediction Platform
+馃挕 AI Safety Guardian: Enterprise-Level Security Monitoring Platform
+馃挕 [for Agricultural Workers] AgriMind AI - From equipment failures to crop success with AI-powered farm intelligence
+馃挕 AI Executive Protection: Building Trust Through Transparency
+馃挕 [for Remote Teams & Global Organizations] EmoSync AI - 浠庢矡閫氶殰纰嶅埌鎯呮劅鍏遍福鐨勮法鏃跺尯鍥㈤槦鍗忎綔骞冲彴
+馃挕 [for Real Estate Professionals & Investors] PropAI - 浠庣箒鐞愭枃妗ｅ拰浼板€煎亸宸埌AI椹卞姩鐨勬櫤鑳芥埧鍦颁骇鍒嗘瀽涓庢姇璧勫喅绛栧姪鎵?2026-04-14T10:57:22Z
+馃挕 SecureForge 鈥?AI-Powered Open Source Supply Chain Immunity
+馃挕 VibeAudit 鈥?Automated Code Quality & Security Scanning for AI-Generated Code
+馃挕 AgentMesh 鈥?Cross-Platform AI Agent Orchestration for the Enterprise
+馃挕 AuthenticAI 鈥?The Anti-Deepfake Provenance Layer for Executive AI Avatars
+馃挕 CrowdCraft 鈥?Open-Source Physical AI That Learns From How Humans Actually Use Machines
+馃挕 AI-Powered Carbon Footprint Reduction Coach with Personalized Action Plans
+馃挕 AI-Powered Adaptive Learning Platform with Neurodiversity Support
+馃挕 AI-Powered Personalized Nutrition Coach with Gut Microbiome Integration
+馃挕 AI-Powered Remote Work Productivity Coach with Environmental Context Awareness
+馃挕 AI-Powered Personal Finance Advisor with Real-time Market Sentiment Analysis
+馃挕 Personal AI Agent Marketplace - Democratizing Autonomous Agents
+馃挕 Langflow 寰涔犲钩鍙?2026-04-14T08:02:03Z
+馃挕 n8n + Firecrawl 鏅鸿兘Web鏁版嵁绠￠亾
+馃挕 Open WebUI + JavaGuide 鏅鸿兘缂栫▼鍔╂墜
+馃挕 AutoGPT + LangChain 鏅鸿兘浣撳崗浣滄鏋?2026-04-14T08:01:32Z
+馃挕 [for Financial Services Companies] RegShield AI - from compliance chaos to intelligent regulatory risk management
+馃挕 AI 蹇冪悊鍋ュ悍鐩戞祴涓庡共棰勭郴缁?2026-04-14T07:03:30Z
+馃挕 AI 涓€у寲瀛︿範璺緞瑙勫垝甯?2026-04-14T07:03:10Z
+馃挕 AI 鏅鸿兘宸ヤ綔娴佺紪鎺掑紩鎿?2026-04-14T07:02:56Z
+馃挕 AI 椹卞姩鐨勬棤闅滅鍐呭鑷姩鐢熸垚鍣?2026-04-14T07:02:39Z
+馃挕 AI 鎯呭鎰熺煡闊充箰鎺ㄨ崘寮曟搸
+馃挕 AI 澶氭ā鎬佷唬鐮佸鏌ュ姪鎵?2026-04-14T07:02:06Z
+馃挕 AI-Powered Research Paper Summarizer with Citation Impact Analysis
+馃挕 [for 闈掑皯骞村拰骞磋交瀛︾敓] 鎴愰暱AI鏁欑粌 - 浠庤糠鑼劍铏戝埌鑷俊鎴愰暱鐨勪釜鎬у寲鍙戝睍浼欎即
+馃挕 AI-Powered Creative Collaboration Platform
+馃挕 AI Assistant Transparency and User Trust Framework for Copilot-like Systems
+馃挕 AI-Powered Supply Chain Security: Trust Verification System for Digital Asset Marketplaces
+馃挕 SPMO: Single-Point Multi-Objective Optimization Engine
+馃挕 CoMoS: AI Coordination and Monoculture Management System
+馃挕 HiL-Agent: Intelligent Help-Seeking AI Systems
+馃挕 E3-TIR: Enhanced Tool Learning for AI Agents
+馃挕 Process Reward Agents for Medical Diagnosis AI
+馃挕 Multilingual Semantic Search Engine
+馃挕 Code Intelligence Platform using xCodeEval
+馃挕 Egocentric AI Assistant using Xperience-10M
+馃挕 Multimodal Document Intelligence with MINT-1T
+馃挕 [for Construction Workers & Site Supervisors] AI Site Safety Coach - 浠庡畨鍏ㄩ殣鎮ｈ瘑鍒埌瀹炴椂娌熼€氱殑璇█鏃犻殰纰嶅畨鍏ㄥ姪鎵?2026-04-13T22:58:42Z
+馃挕 GreenAI Edge Nodes: Decentralized AI Infrastructure for Sustainable Computing
+馃挕 [for 鐜板満鎶€鏈憳鍜岀淮淇伐绋嬪笀] FieldFix AI - 浠庢妧鏈枃妗ｇ己澶卞拰娌熼€氬鍨掑埌AI椹卞姩鐨勭幇鍦烘妧鏈敮鎸佷笌鐭ヨ瘑浼犳壙骞冲彴
+馃挕 [for 灏忚妯″啘鎴峰拰鍐滀笟鍚堜綔绀綸 FarmAI Guardian - 浠庣梾铏璇嗗埆鍥伴毦鍜屽啘涓氱煡璇嗗鍨掑埌AI椹卞姩鐨勬櫤鑳藉啘涓氬姪鎵嬪拰鐭ヨ瘑鍏变韩骞冲彴
+馃挕 AI寮€鍙戣€呯殑闃舵寮忓涔犲钩鍙?2026-04-13T08:03:32Z
+馃挕 涓嬩竴浠I鐢ㄦ埛鐣岄潰璁捐绯荤粺
+馃挕 浣庝唬鐮丄I浠ｇ悊鏋勫缓鍣?2026-04-13T08:03:04Z
+馃挕 鏅鸿兘鎻愮ず璇嶅伐绋嬩紭鍖栧钩鍙?2026-04-13T08:02:32Z
+馃挕 AI椹卞姩鐨勬櫤鑳藉伐浣滄祦鑷姩鍖栧钩鍙?2026-04-13T08:02:21Z
+馃挕 澶氭ā鎬丄I鍔╂墜鏋舵瀯璁捐
+馃挕 [for 涓ぇ鍨嬪埗閫犱紒涓氬拰渚涘簲閾剧鐞嗚€匽 SupplyChain Sentinel - 浠庝緵搴旈摼涓柇鍜岄闄╀笉鍙鍒癆I椹卞姩鐨勫疄鏃朵緵搴旈摼鐩戞帶涓庢櫤鑳介闄╅璀︾郴缁?2026-04-13T07:04:39Z
+馃挕 AI Development Environment Evolution: From Tab Management to Local LLM Integration
+馃挕 AI鍒涙剰锛氬妯℃€佸涔犲湪鍖荤枟褰卞儚涓殑搴旂敤
+馃挕 [for 鑰佸勾鎮ｈ€呭拰鐓ф姢鑰匽 MedCare AI - 浠庤嵂鐗╅敊璇拰鎱㈡€х梾绠＄悊鍥板鍒癆I椹卞姩鐨勬櫤鑳借嵂鐗╃鐞嗕笌鍋ュ悍鐩戞姢鍔╂墜
+馃挕 [for 杩滅▼鍔炲叕鐨勭櫧棰嗗拰鐭ヨ瘑宸ヤ綔鑰匽 FocusFlow AI - 浠庢敞鎰忓姏鍒嗘暎鍜屾繁搴﹀伐浣滃洶闅惧埌AI椹卞姩鐨勪笓娉ㄥ姏绠＄悊涓庡伐浣滄祦浼樺寲鍔╂墜
+馃挕 AI Agent Ecosystem: Building Interoperable Digital Assistants
+馃挕 鑷洃鐫ｅ涔犵殑鍏冨涔犳鏋?2026-04-13T00:32:51Z
+馃挕 澶氭ā鎬丄I鍔╂墜鐨勬儏鎰熸櫤鑳藉寮?2026-04-13T00:32:31Z
+馃挕 PerspectiveAI: Demographic-Aware Content Moderation Platform
+馃挕 KnowU Personal Assistant: Next-Gen Mobile AI with Genuine Preference Learning
+馃挕 TrustGuard: AI System Resilience and Alignment Verification Platform
+馃挕 SUPERNOVA-Ed: Adaptive Learning Platform for General Reasoning Skills
+馃挕 AI Ethics Auditor: Detecting and Mitigating Conflicts of Interest in Chatbots
+馃挕 AI璺ㄨ瑷€鍒涙剰鍐欎綔浼欎即
+馃挕 [for 钃濋宸ヤ汉鍜屾墜宸ヤ笟鑰匽 MindForge AI - 浠庨珮鍘嬪伐浣滅幆澧冨拰蹇冪悊鍒涗激鍒癆I椹卞姩鐨勮亴鍦哄績鐞嗗仴搴蜂笌鑱屼笟闊ф€у缓璁惧姪鎵?2026-04-12T22:57:38Z
+馃挕 [for 灏忓啘鎴峰拰涔℃潙鍚堜綔绀綸 AgriMind AI - 浠庣粡楠屽啘涓氬拰姘斿€欑劍铏戝埌AI椹卞姩鐨勭簿鍑嗗啘涓氫笌涔℃潙缁忔祹鎸叴鍔╂墜
+馃挕 [for 灏忓瀷鍒堕€犲伐鍘傚拰涓€绾垮伐浜篯 ForgeFlow AI - 浠庣敓浜ф晥鐜囦綆涓嬪拰璐ㄩ噺澶辨帶鍒癆I椹卞姩鐨勬櫤鑳藉伐鍘傝繍钀ヤ笌宸ヤ汉鐢熶骇鍔涙彁鍗囧姪鎵?2026-04-12T16:57:41Z
+馃挕 Web Intelligence Agents: 缁撳悎 Firecrawl + Browser-Use + RAGFlow 鏋勫缓鑷富缃戠粶鎯呮姤绯荤粺
+TradeQuote AI - 浠庝及浠风炕杞﹀拰鎶ヤ环鐒﹁檻鍒癆I椹卞姩鐨勬櫤鑳戒及浠锋姤浠蜂笌椤圭洰绠＄悊鍔╂墜
+馃挕 [for 鍩庡競闃冲彴绉嶆鑰呭拰瀹跺涵鍥壓鐖卞ソ鑰匽 PlantPal AI - 浠庨粦 thumb 鍜屾鐗╁吇姝荤劍铏戝埌AI椹卞姩鐨勪釜鎬у寲妞嶇墿鍏绘姢涓庨槼鍙板井鍐滀笟鍔╂墜
+馃挕 [for 鐙眳闈掑勾鍜屾柊鎴夸富] FixMate AI - 浠庡鐢垫晠闅滅劍铏戝拰缁翠慨琚潙鍒癆I椹卞姩鐨勬櫤鑳芥晠闅滆瘖鏂笌缁翠慨鍐崇瓥鍔╂墜
+馃挕 [for 绀句氦鍊︽€犺€呭拰鍙嬭皧缁存姢鍥伴毦鑰匽 FriendPulse - 浠庡弸璋婇€愭笎娣″繕鍒癆I椹卞姩鐨勪釜鎬у寲绀句氦鍏崇郴缁存姢涓庢繁搴﹁繛鎺ュ姪鎵?2026-04-10T11:02:40Z
+馃挕 [for 绉熸埧鏃忓拰棰戠箒鎼鑰匽 MoveEase AI - 浠庢惉瀹舵贩涔卞拰鐗╁搧閬楀け鍒癆I椹卞姩鐨勬櫤鑳芥墦鍖呯鐞嗕笌鏂板眳蹇€熷畨椤垮姪鎵?2026-04-10T00:02:24Z
+馃挕 [for 琛楄竟鎽婅穿鍜屾祦鍔ㄥ皬鍟嗘埛] StreetSmart AI - 浠庡嚟鎰熻鎽嗘憡鍒癆I椹卞姩鐨勯€夌偣瀹氫环搴撳瓨涓€浣撳寲缁忚惀鍔╂墜
+馃挕 [for 鍜栧暋鐖卞ソ鑰呭拰灞呭鍜栧暋甯圿 BrewMind - 浠庣洸鐩拱璞嗗拰鍐茬叜缈昏溅鍒癆I椹卞姩鐨勪釜鎬у寲椋庡懗鎺㈢储涓庤悆鍙栦紭鍖栧姪鎵?2026-04-09T20:02:10Z
+馃挕 [for 鑷敱璇戣€呭拰鏈湴鍖栧伐浣滆€匽 TermNest - 浠庢湳璇鐞嗘贩涔卞拰缈昏瘧涓嶄竴鑷村埌AI椹卞姩鐨勪釜浜烘湳璇簱涓庣炕璇戣川閲忎繚闅滃姪鎵?2026-04-09T19:02:08Z
+馃挕 [for 闈㈣瘯鐒﹁檻鑰呭拰姹傝亴鑰匽 InterviewForge - 浠庨潰璇曠揣寮犲拰鍥炵瓟鍗″３鍒癆I椹卞姩鐨勪釜鎬у寲妯℃嫙闈㈣瘯涓庤〃杈捐兘鍔涜缁冨姪鎵?2026-04-09T17:02:24Z
+馃挕 [for 鍋忓ご鐥涘拰鎱㈡€х柤鐥涙偅鑰匽 PainLens AI - 浠庡彂浣滆鍔ㄥ繊鍙楀埌AI椹卞姩鐨勪釜鎬у寲璇卞洜璇嗗埆涓庣柤鐥涢娴嬬鐞嗗姪鎵?2026-04-09T16:59:07Z
+馃挕 [for 鐙眳鑰呭拰澶滈棿鍑鸿鑰匽 NightOwl - 浠庡闂村畨鍏ㄧ劍铏戝拰褰掑鎭愭儳鍒癆I椹卞姩鐨勪釜鎬у寲瀹夊叏璺嚎瑙勫垝涓庡疄鏃跺畧鎶ゅ姪鎵?2026-04-09T15:02:37Z
+馃挕 [for 鑱屽満鏂颁汉鍜岀潃瑁呭洶鎯戣€匽 StyleMate - 浠庢瘡鏃ョ┛鎼劍铏戝拰琛ｆ┍娴垂鍒癆I椹卞姩鐨勪釜鎬у寲鐫€瑁呮帹鑽愪笌鑳跺泭琛ｆ┍绠＄悊鍔╂墜
+馃挕 [for 鑹茬洸鑹插急浜虹兢] ColorBridge AI - 浠庤壊褰╀俊鎭己澶卞埌AI椹卞姩鐨勬棤闅滅鑹插僵鎰熺煡鍔╂墜
+馃挕 [for 鎴峰鐖卞ソ鑰呭拰鑷劧鎺㈢储鑰匽 WildBite - 浠庨噹澶栨鐗╄瘑鍒洶闅惧拰瑙呴瀹夊叏鐒﹁檻鍒癆I椹卞姩鐨勫煄甯傞噹鐢熼鐗╁彂鐜颁笌瀹夊叏瑙呴鎸囧崡
+馃挕 [for 鍩庡競楠戣鑰呭拰寰嚭琛岀敤鎴穄 RideSmart - 浠庤矾绾跨洸鍖哄拰鍑鸿涓嶇‘瀹氭€у埌AI椹卞姩鐨勪釜鎬у寲瀹夊叏楠戣瀵艰埅鐢熸€?2026-04-08T15:02:25Z
+馃挕 [for 杩滅▼宸ヤ綔鑰呭拰鏁板瓧娓告皯] FlowSync - 浠庢椂鍖烘贩涔卞拰寮傛鍗忎綔浣庢晥鍒癆I椹卞姩鐨勫叏鐞冨伐浣滆妭濂忓崗璋冮潻鍛?2026-04-08T13:04:10Z
+馃挕 Prompt Engineering Marketplace: Community-Driven ChatGPT Prompt Monetization
+馃挕 AutoGPT + n8n Integration: Autonomous Workflow Orchestration
+馃挕 [for 绁炵粡澶氭牱鎬т汉缇 AI鏅鸿兘绁炵粡澶氭牱鎬х敓娲诲崗璋冨姪鎵?- 浠庢墽琛屽姛鑳介殰纰嶅拰鎰熷畼杩囪浇绠＄悊鎸戞垬鍒颁釜鎬у寲鐨勭缁忓鏍锋€ц祴鑳界敓鎬佺郴缁?2026-04-08T11:02:08Z
+馃挕 [for 骞磋交鑱屽満浜哄拰鐞嗚储鍒濆鑰匽 AI鏅鸿兘璐㈠姟鏁欑粌涓庢姇璧勫喅绛栧姪鎵?- 浠庨噾铻嶇煡璇嗛棬妲涢珮鍜屾姇璧勭劍铏戝埌鏁版嵁椹卞姩鐨勮嚜淇＄悊璐㈢敓鎬佺郴缁?2026-04-08T10:02:09Z
+馃挕 Multi-Agent Reasoning Orchestra: Cross-Model Collaboration Framework
+馃搳 Token Flow Analytics - Visualize & Optimize AI API Costs in Real-time
+馃洝锔?AI Web Shield - Real-time Malicious Page Detection with Local LLM
+馃椇锔?Codebase Atlas - Interactive Code Navigation Like Google Maps
+馃 AI Agent Skills Marketplace - Plugin Ecosystem for AI Coding Assistants
+馃挕 [for 瀹犵墿涓讳汉鍜屽吇瀹犲搴璢 AI鏅鸿兘瀹犵墿鍏ㄧ敓鍛藉懆鏈熷仴搴蜂笌琛屼负鍗忚皟骞冲彴 - 浠庡疇鐗╁仴搴风洸鍖哄拰琛屼负绠＄悊鍥版壈鍒扮瀛︽暟鎹┍鍔ㄧ殑瀹犵墿骞哥鐢熸椿鐢熸€佺郴缁?2026-04-08T07:03:35Z
+馃挕 Adaptive Multi-Agent Memory Framework for Scientific Discovery
+馃挕 [for 鑱屽満杞瀷鑰呭拰鎶€鑳芥彁鍗囪€匽 AI鏅鸿兘鎶€鑳藉浘璋变笌鑱屼笟杞瀷鍗忚皟鏁欑粌 - 浠庨浂鏁ｆ妧鑳藉涔犲拰鑱屼笟杩疯尗鍒版暟鎹┍鍔ㄧ殑绮惧噯鎶€鑳藉煿鍏讳笌鑱屼笟璺緞瑙勫垝鐢熸€佺郴缁?2026-04-08T06:05:15Z
+馃挕 [for 鐜繚缁勭粐鍜屽彲鎸佺画鎬у€″鑰匽 AI鏅鸿兘鐜鐩戞祴涓庡彲鎸佺画鍙戝睍骞冲彴 - 浠庢暟鎹鐗囧寲鍒版櫤鑳藉寲鐜繚琛屽姩鐢熸€佺郴缁?2026-04-08T06:03:38Z
+馃挕 [for 璺ㄦ枃鍖栧洟闃熷拰鍥介檯缁勭粐] AI鏅鸿兘璺ㄦ枃鍖栧崗浣滃钩鍙?- 浠庢矡閫氶殰纰嶅埌澶氬厓鍖栧洟闃熸晥鑳介潻鍛?2026-04-08T06:03:17Z
+馃挕 [for 鑱屽満浜哄＋鍜屽鐢熺兢浣揮 AI鎯呯华鏅鸿兘闄即涓庢垚闀垮钩鍙?- 浠庡帇鍔涚鐞嗗埌蹇冪悊鍋ュ悍棰勯槻鐢熸€佺郴缁?2026-04-08T06:02:50Z
+馃挕 [for 鐮旂┒浜哄憳鍜岀煡璇嗗伐浣滆€匽 AI鏅鸿兘涓汉鐭ヨ瘑鍥捐氨寮曟搸 - 浠庝俊鎭鐗囧寲鍒版繁搴︾煡璇嗘暣鍚堜笌鍙戠幇
+馃挕 [for IoT寮€鍙戣€呭拰纭欢鐖卞ソ鑰匽 AI杈圭紭璁＄畻鏅鸿兘纭欢鍒涗綔骞冲彴 - 浠庡鏉傜紪绋嬪埌鏅鸿兘鍖栫‖浠跺師鍨嬭璁?2026-04-08T06:02:30Z
+馃挕 [for 鐙珛鑹烘湳瀹跺拰鍒涙剰宸ヤ綔鑰匽 AI鍒涙剰鐏垫劅鍙屽悜鐢熸垚骞冲彴 - 浠庡垱浣滅伒鎰熸灟绔埌AI椹卞姩鐨勫垱鎰忓崗浣滅敓鎬佺郴缁?2026-04-08T06:02:13Z
+馃挕 [for 璺ㄦ枃鍖栦即渚ｅ拰鍥介檯濠氬Щ瀹跺涵] AI鏅鸿兘鏂囧寲铻嶅悎涓庤法浠ｉ檯鎯呮劅鍗忚皟骞冲彴 - 浠庢枃鍖栧啿绐佸拰浠ｉ檯鐞嗚В闅滅鍒板鍏冩枃鍖栧搴殑鍜岃皭鍏辩敓闈╁懡
+?? [for ?????????] AI????????????? - ???????????????AI?????????
+馃挕 [for 鐭ヨ瘑宸ヤ綔鑰呭拰鐮旂┒浜哄憳] AI鏅鸿兘涓汉鏂囨。鏅烘収绠″ - 浠庝俊鎭繃杞藉拰鏂囨。纰庣墖鍖栧埌鏅鸿兘鍖栫煡璇嗘彁鍙栦笌涓汉鐭ヨ瘑搴撶殑缁堣韩瀛︿範闈╁懡
+馃挕 AI-Powered Voice Dictation with Context Awareness
+馃挕 [for 鐙珛闊充箰浜哄拰灏忎紬涔愰槦] AI鏅鸿兘闊充箰鎯呮劅鍖栧垱浣滃崗浣滃钩鍙?- 浠庡垱浣滅伒鎰熸灟绔拰闊充箰鍒朵綔闂ㄦ楂樺埌鍏ㄦ皯閮借兘鍙備笌鐨勬儏鎰熷叡楦ｉ煶涔愬垱浣滈潻鍛?2026-04-08T02:03:52Z
+馃挕 Multi-Modal LLM Agent with Context-Aware Memory System
+馃挕 [for 涓皬鍨嬩紒涓氱鐞嗚€呭拰鍥㈤槦璐熻矗浜篯 AI鏅鸿兘缁勭粐鐭ヨ瘑绠＄悊涓庡崗浣滀紶鎵垮钩鍙?- 浠庣煡璇嗙鐗囧寲鍜岀粡楠屾祦澶卞埌鏅鸿兘鍖栫粍缁囧涔犱笌鐭ヨ瘑浼犳壙鐢熸€佺郴缁熼潻鍛?2026-04-08T01:09:38Z
+馃挕 AI Work Revolution: The Four-Day Week Challenge
+馃挕 [for 搴旀€ュ搷搴斾汉鍛樺拰鍙楃伨缇や紬] AI鏅鸿兘鐏惧鍗忚皟涓庣敓鍛芥晳鎻翠紭鍖栧钩鍙?- 浠庝俊鎭鐗囧寲鍜屾晳鎻存晥鐜囦綆涓嬪埌AI椹卞姩鐨勭簿鍑嗙伨瀹冲搷搴斾笌鐢熷懡瀹夊叏淇濋殰闈╁懡
+馃挕 [for 鍐滄潙灞呮皯鍜屽亸杩滃湴鍖哄眳姘慮 AI鏅鸿兘涔℃潙鏈嶅姟涓庤祫婧愬崗璋冨钩鍙?- 浠庝俊鎭宀涘拰鏈嶅姟鑾峰彇鍥伴毦鍒版暟瀛楀寲璧嬭兘鐨勪埂鏉戞尟鍏翠笌鍙寔缁彂灞曢潻鍛?2026-04-07T22:56:52Z
+馃挕 [for 鍐滄皯宸ュ拰杩涘煄鍔″伐浜哄憳] AI鏅鸿兘鍩庡競铻嶅叆涓庤亴涓氬彂灞曞崗璋冨钩鍙?- 浠庝俊鎭笉瀵圭О鍜岀敓瀛樼劍铏戝埌鏁版嵁椹卞姩鐨勫煄甯傛柊鐢熸椿骞崇ǔ杩囨浮闈╁懡
+馃挕 寮€婧怉I鎺ㄧ悊鑳藉姏璇勬祴骞冲彴
+馃挕 3D鍥惧儚缂栬緫AI宸ュ叿閾?2026-04-07T15:14:11Z
+馃挕 OmniVoice澶氳瑷€璇煶鍏嬮殕绀惧尯骞冲彴
+馃挕 AI Agent Canvas: Visual No-Code Workflow Builder with Integrated RAG and Multi-LLM Support
+馃挕 [for 瀹跺涵鎶ゅ伐鍜屼笓涓氭姢鐞嗕汉鍛榏 AI鏅鸿兘鍗忚皟涓庤祴鑳藉畧鎶ゅ钩鍙?- 浠庝俊鎭繃杞藉拰鎯呮劅鑰楃鍒癆I璧嬭兘鐨勯珮璐ㄩ噺鐓ф姢鐢熸€侀潻鍛?2026-04-06T22:57:12Z
+馃挕 [for 骞磋交鑱屽満浜哄拰鏁板瓧鍘熺敓浠 AI鏅鸿兘鏁板瓧骞宠　涓庝笓娉ㄥ姏鏁欑粌 - 浠庡睆骞曟椂闂村け鎺у拰淇℃伅杩囪浇鐒﹁檻鍒扮瀛︽暟瀛楀仴搴蜂笌娣卞害涓撴敞鐨勫彲鎸佺画宸ヤ綔鐢熸椿闈╁懡
+馃挕 [for 鎱㈡€х梾鎮ｈ€呭拰鐗规畩楗闇€姹傝€匽 AI鏅鸿兘涓€у寲钀ュ吇涓庨ギ椋熷崗璋冩暀缁?- 浠庨ギ椋熺鐞嗘贩涔卞拰钀ュ吇璁＄畻澶嶆潅鍒扮瀛︾簿鍑嗙殑涓€у寲鍋ュ悍楗鐢熸€佺郴缁?2026-04-06T19:08:37Z
+馃挕 [for 鏁板瓧娌熼€氱劍铏戣€匽 AI鏅鸿兘鎯呮劅鏅鸿兘娌熼€氭暀缁?- 浠庣ぞ浜ゆ亹鎯у拰淇℃伅杩囪浇鍒拌嚜淇℃暟瀛椾汉闄呭叧绯荤殑娌熼€氶潻鍛?2026-04-06T18:11:38Z
+馃挕 [for 绔炴妧娓告垙鐜╁鍜岀數绔炲唴瀹瑰垱浣滆€匽 AI鏅鸿兘娓告垙绛栫暐涓庡唴瀹瑰垱浣滃弻鏍告暀缁?- 浠庢父鎴忎俊鎭繃杞藉拰鍐呭鍒涗綔鐡堕鍒版暟鎹┍鍔ㄧ殑涓汉鐢电珵鍝佺墝鎴愰暱闈╁懡
+馃挕 [for 寤虹瓚宸ヤ汉鍜岃淇笀鍌匽 AI鏅鸿兘鏂藉伐绠＄悊涓庤川閲忔帶鍒跺姪鎵?- 浠庣粡楠屼緷璧栧拰璐ㄩ噺娉㈠姩鍒版暟鎹┍鍔ㄧ殑绮惧噯鏂藉伐闈╁懡
+馃挕 [for 鍒氭瘯涓氱殑澶у鐢焆 AI鑱屼笟鍙戝睍涓庣敓娲婚€傚簲鏅鸿兘鍗忚皟骞冲彴 - 浠庡氨涓氳糠鑼拰鑱屽満閫傚簲鍥伴毦鍒版暟鎹┍鍔ㄧ殑鍙寔缁釜浜烘垚闀块潻鍛?2026-04-06T16:27:14Z
+馃挕 [for 灏忓瀷浼佷笟涓籡 AI鏅鸿兘娉曞緥鏂囨。涓庡悎瑙勫姪鎵?- 浠庢硶寰嬫枃浠剁悊瑙ｅ洶闅惧拰鍚堣椋庨櫓鐒﹁檻鍒拌嚜淇＄粡钀ョ殑涓皬浼佷笟娉曞緥瀹夊叏淇濋殰闈╁懡
+馃挕 [for 鍒涙剰宸ヤ綔鑰呭拰鐭ヨ瘑鍐呭鍒涗綔鑰匽 AI鏅鸿兘鍒涗綔娴佺▼閲嶆瀯鍔╂墜 - 浠庣伒鎰熺鐗囧寲鍜屽垱浣滄晥鐜囩摱棰堝埌鍙寔缁珮璐ㄩ噺鍐呭鐢熶骇鐨勫垱鎰忓伐浣滄祦闈╁懡
+馃挕 AI Workflow Canvas Designer
+馃挕 OpenVoice Orchestrator Framework
+馃挕 Self-Hosted AI Agent Discovery Platform
+馃挕 Multi-Agent Creative Studio: Combining VibeVoice, VOID, and AI Scientist for Autonomous Content Creation
+馃挕 AI Agent Mental Model Framework - Simplified Understanding for Complex Systems
+馃挕 AI Safety Research Optimization Framework - Quantify and Maximize Impact
+馃挕 Multi-Layer Continual Learning Framework - Learn at Model, Harness, and Context Levels
+馃挕 Multi-Agent Orchestrator - Unified CLI for 13+ LLM Providers
+馃挕 Socratic AI Tutor - Transform Your Agent into a Philosophical Guide
+馃挕 [for 涓骇瀹跺涵璐㈠姟鍐崇瓥鑰匽 AI鏅鸿兘瀹跺涵璐㈠姟鐩爣瑙勫垝涓庢墽琛屽钩鍙?- 浠庤喘鎴挎暀鑲查€€浼戠洰鏍囨ā绯婂拰鎵ц浣庢晥鍒版暟鎹┍鍔ㄧ殑瀹跺涵璐㈠姟鎴愰暱闈╁懡
+馃挕 [for 鏀跨瓥鍒跺畾鑰呭拰鏁板瓧鏉冪泭鍊″鑰匽 AI鍏ㄧ悆鏁板瓧鍩虹璁炬柦鍏钩璇勪及鍣?- 浠庢妧鏈彂灞曚笉鍧囪　鍒板彲鎸佺画鍏ㄧ悆鏁板瓧鍖呭鎬х殑鏀跨瓥鍒跺畾闈╁懡
+馃挕 [for 鍋ュ悍鐖卞ソ鑰呭拰鏁版嵁鍒嗘瀽甯圿 AI涓€у寲鐑枟鍋ュ悍浼樺寲鏁欑粌 - 浠庣粡楠屾€у仴搴峰缓璁埌鏁版嵁椹卞姩鐨勪釜鎬у寲鐑枟鏂规瀹氬埗闈╁懡
+馃挕 [for 绉诲姩搴旂敤寮€鍙戣€呭拰浼佷笟] 绂荤嚎AI鑳藉姏璧嬭兘濂椾欢 - 浠庣Щ鍔ㄧ绠楀姏闄愬埗鍒板師鐢烝I鍔熻兘鐨勭敤鎴蜂綋楠屾彁鍗囬潻鍛?2026-04-06T02:03:39Z
+馃挕 [for 鑸ぉ鐖卞ソ鑰呭拰鏁欒偛宸ヤ綔鑰匽 AI澶┖鎺㈢储鏁版嵁鍙鍖栧钩鍙?- 浠庝笓涓氭暟鎹拰澶嶆潅淇℃伅鍒板ぇ浼楀彲鐞嗚В鐨勬矇娴稿紡澶┖浣撻獙鏅強闈╁懡
+馃挕 [for AI 鐮旂┒鑰呭拰寮€鍙戣€匽 AI蹇€熷師鍨嬮獙璇佸姞閫熷櫒 - 浠庨」鐩瀯鎬濆拰寮€鍙戠摱棰堝埌鏁板懆鍐呭彲娴嬭瘯浜у搧鍘熷瀷鐨勬晱鎹稟I寮€鍙戦潻鍛?2026-04-06T02:03:03Z
+馃挕 [for 绁炵粡澶氭牱鎬т汉缇 AI涓€у寲绁炵粡澶氭牱鎬х敓娲诲崗璋冩暀缁?- 浠庤鐭ュ樊寮傚拰鏃ュ父鐢熸椿鎸戞垬鍒颁釜鎬у寲閫傚簲涓庢綔鑳藉厖鍒嗗彂鎸ョ殑绁炵粡澶氭牱鎬у寘瀹归潻鍛?2026-04-06T01:08:49Z
+馃挕 AI Energy-AI Nexus: Green Power Management for LLM Operations
+馃挕 [for 鍩庡競绀惧尯绠＄悊鑰呭拰鏈湴鍟嗘埛] AI鏅鸿兘绀惧尯鐢熸€佸崗璋冨钩鍙?- 浠庣ぞ鍖轰俊鎭宀涘拰鍟嗘埛璧勬簮娴垂鍒版櫤鎱у煄甯傚彲鎸佺画绀惧尯鐢熸€佺殑鍗忓悓闈╁懡
+馃挕 [for 鍚殰浜哄＋] AI瀹炴椂璇煶-鏂囧瓧鍙屽悜缈昏瘧鍗忚皟浼欎即 - 浠庢矡閫氶殰纰嶅拰绀句細瀛ょ珛鍒版棤缂濊瀺鍏ョ幇浠ｇぞ浜ゅ満鏅殑鏃犻殰纰嶆矡閫氶潻鍛?2026-04-05T23:02:02Z
+馃挕 [for 鏁板瓧娓告皯鍜岃繙绋嬪伐浣滆€匽 AI鏅鸿兘鍏ㄧ悆鐢熸椿涓庣敓浜у姏骞宠　鏁欑粌 - 浠庢椂宸贩涔卞拰鏂囧寲閫傚簲鍥伴毦鍒版棤缂濆叏鐞冨寲鏁板瓧娓告皯鐢熸椿鐨勫钩琛￠潻鍛?2026-04-05T22:01:47Z
+馃挕 [for 绀惧尯缁勭粐鑰呭拰娲诲姩棰嗗鑰匽 AI鏅鸿兘瀹炴椂鍐崇瓥鍗忚皟涓績 - 浠庣獊鍙戜簨浠跺弽搴旀參鍜岀兢浣撳喅绛栨贩涔卞埌鏁忔嵎绀惧尯娌荤悊涓庨珮鏁堥泦浣撹鍔ㄧ殑缁勭粐闈╁懡
+馃挕 [for 鐜颁唬鏁欒偛宸ヤ綔鑰呭拰AI铻嶅悎鏁欏笀] AI鏅鸿兘鏁欏璁捐鍔╂墜 - 浠庡璇惧帇鍔涘拰涓€у寲鏁欏鍥板鍒癆I澧炲己鐨勭簿鍑嗘暀瀛︿笌鍙寔缁暀鑲茬敓鎬?2026-04-05T20:01:54Z
+馃挕 [for 鑰佸勾浜哄灞炵収鎶よ€匽 AI鏅鸿兘瀹跺涵鐓ф姢鍗忚皟涓庡仴搴风鐞嗗钩鍙?- 浠庣収鎶や俊鎭鐗囧寲鍜屽仴搴风洃娴嬪洶闅惧埌鏅鸿兘鍖栧搴収鎶ょ敓鎬佺郴缁?2026-04-05T19:02:32Z
+馃挕 [for 棰戠箒鍑哄樊浜哄＋鍜岃繙绋嬪洟闃熺鐞嗚€匽 AI鏅鸿兘鍟嗗姟鏃呰涓庤繙绋嬪崗浣滀腑鏋?- 浠庤绋嬫贩涔辨椂宸洶鎵板拰鍥㈤槦鍗忎綔浣庢晥鍒版棤缂濆叏鐞冨寲鍔炲叕浣撻獙鐨勯珮鏁堢敓浜у姏闈╁懡
+馃挕 [for 鑷敱鑱屼笟鑰匽 AI鏅鸿兘鑷敱鑱屼笟鍏ㄥ懆鏈熺鐞嗗钩鍙?- 浠庨」鐩鐗囧寲鍜岀鐞嗘贩涔卞埌楂樻晥鍙寔缁殑涓汉鍟嗕笟妯″紡
+馃挕 [for 钃濋宸ヤ汉] AI钃濋宸ヤ綔鎶€鑳戒笌璇█鍔╂墜 - 浠庢妧鏈枃妗ｇ湅涓嶆噦鍜屾搷浣滀笉鐔熺粌鍒版櫤鑳藉埗閫犳椂浠ｇ殑瀹夊叏楂樻晥浣滀笟
+馃挕 [for 鍐滄潙杩斾埂闈掑勾] AI鏅鸿兘涔℃潙閫傚簲涓庝环鍊奸噸寤烘暀缁?- 浠庡煄甯傜敓娲绘柇瑁傚拰浠峰€艰糠澶卞埌涔℃潙鎸叴涓殑涓汉鎴愬氨涓庣ぞ浼氳础鐚殑杩斾埂浜虹敓闈╁懡
+馃挕 [for 鐜颁唬鐖舵瘝鍜屾暟瀛楀師鐢熶唬瀹跺涵] AI鏅鸿兘鏁板瓧鑲插効涓庡搴钩琛℃暀缁?- 浠庤偛鍎跨劍铏戝拰灞忓箷鏃堕棿澶辨帶鍒扮瀛︽暟瀛楁椂浠ｇ殑鍋ュ悍瀹跺涵鐢熸€佸拰浜插瓙鍏崇郴閲嶅缓
+馃挕 [for 鍒涙剰宸ヤ綔鑰呭拰鑹烘湳瀹禲 AI鍒涙剰鎭㈠鏁欑粌 - 浠庡垱鎰忔灟绔拰鍒涗綔鍊︽€犲埌鍙寔缁垱鎰忕敓鎬佸拰鑱屼笟鐢熷懡鍔?2026-04-05T14:03:37Z
+馃挕 [for 蹇冪悊鍋ュ悍涓撲笟浜哄＋] AI鏅鸿兘蹇冪悊鍜ㄨ甯堝姪鎵?- 浠庢渚嬬鐞嗙箒鐞愬拰鑱屼笟鍊︽€犲洶鎵板埌绉戝楂樻晥鐨勫績鐞嗗仴搴锋湇鍔℃柊鐢熸€?2026-04-05T13:02:21Z
+馃挕 [for 瑙嗗惉闅滅瀛︿範鑰匽 AI澶氭劅瀹樹氦浜掑涔犺緟鍔╁钩鍙?- 浠庝紶缁熷涔犻殰纰嶅拰淇℃伅鑾峰彇鍥伴毦鍒版矇娴稿紡澶氭劅瀹樺涔犵殑涓€у寲鏁欒偛闈╁懡
+馃挕 [for 瀹犵墿涓讳汉] AI鏅鸿兘瀹犵墿鍋ュ悍涓庤涓烘暀缁?- 浠庡仴搴风洃娴嬫ā绯婂拰琛屼负璁粌鍥伴毦鍒扮瀛﹀疇鐗╂姢鐞嗕笌鏅鸿兘琛屼负鍩瑰吇鐨勫拰璋愪汉瀹犲叧绯婚潻鍛?2026-04-05T11:02:04Z
+馃挕 [for 鍘嬪姏绠＄悊鍥伴毦鐨勪汉缇 AI鏅鸿兘鍘嬪姏鍒嗚В涓庢斁鏉捐缁冨姪鎵?- 浠庣劍铏戠疮绉拰鏀炬澗鏃犻棬鍒扮瀛﹁В鍘嬩笌蹇冪悊闊ф€х殑鏃ュ父鐢熸椿闈╁懡
+馃挕 [for 绉戞妧鍒涗笟鑰呭拰鍒涙柊椤圭洰鍙戣捣浜篯 AI鏅鸿兘鍒涙剰鍙樼幇涓庡晢涓氶獙璇佸姞閫熷櫒 - 浠庡垱鎰忔ā绯婂拰鍟嗕笟妯″紡涓嶇‘瀹氬埌鏁版嵁椹卞姩鍙寔缁泩鍒╃殑鍒涗笟鏅鸿兘闈╁懡
+馃挕 AI-Powered Climate Action Planner
+馃挕 AI-Powered Medical Diagnosis with Explainable Reasoning
+馃挕 AI-Driven Sustainable City Planning Assistant
+馃挕 AI-Powered Personalized Learning Path Generator
+馃挕 [for 鐜繚鐖卞ソ鑰呭拰鍙寔缁敓娲诲疄璺佃€匽 AI鏅鸿兘纰宠冻杩瑰垎鏋愪笌鐢熸椿浼樺寲鏁欑粌 - 浠庣⒊鎺掓斁妯＄硦鍜岀幆淇濊鍔ㄥ洶鎯戝埌绉戝鍙寔缁殑涓汉鐜繚闈╁懡
+馃挕 Universal Knowledge Navigator: Adaptive Multi-Modal Memory System
+馃挕 [for 鎶€鏈亹鎯х殑鑰佸勾浜篯 AI鑰愬績鏁板瓧鐢熸椿瀵煎笀 - 浠庣鎶€鐒﹁檻鍜屾搷浣滃洶鎯戝埌鑷俊鏁板瓧鐢熸椿鐨勯摱鍙戠鎶€闈╁懡
+馃挕 AI-Powered Precision Medicine Platform
+馃挕 AI Climate Intelligence Platform
+馃挕 AI-Powered Accessibility Suite
+馃挕 Adaptive Learning Personalization Engine
+馃挕 AI Ethics & Governance Platform
+馃挕 Multimodal AI Content Generator
+馃挕 AI-Powered Code Review Assistant
+馃挕 [for 鍟嗕笟鍒嗘瀽甯堝拰鎴樼暐椤鹃棶] AI澶氭ā鎬佹櫤鑳藉晢涓氬喅绛栧崗浣滃钩鍙?- 浠庝俊鎭宀涘拰纰庣墖鍖栧垎鏋愬埌鍏ㄧ淮搴﹀晢涓氭礊瀵熺殑鏅鸿兘鍐崇瓥闈╁懡
+馃挕 [for 鍒涙剰宸ヤ綔鑰呭拰濞变箰鐖卞ソ鑰匽 AI鍒涙剰鍗忎綔娓镐箰鍦?- 浠庣伒鎰熸灟绔拰鍒涗綔鐡堕鍒版棤闄愬垱鎰忓彲鑳芥€х殑澶氫汉浜掑姩鍒涗綔鐩涘
+馃挕 AI-Powered Creative Studio: Multi-Modal Fusion Platform
+馃挕 AI Platform Interoperability Standards: Breaking Vendor Lock-in
+馃挕 Transparent AI Criticism Framework: Ethical Accountability Systems
+馃挕 Multi-Agent Development Environment: Beyond Single-Model Constraints
+馃挕 GPU Architecture Learning Game for AI Education
+馃挕 Self-Distillation for Code Generation Optimization
+馃挕 [for 绀句氦鐒﹁檻浜虹兢] AI娓愯繘寮忕ぞ浜よ缁冨姪鎵?- 浠庣ぞ浜ゆ亹鎯у拰鍥為伩琛屼负鍒拌嚜淇＄ぞ浜ゆ妧鑳藉煿鍏荤殑蹇冪悊搴峰闈╁懡
+馃挕 [for 浼犵粺鏂囧寲鐖卞ソ鑰匽 AI娌夋蹈寮忔枃鍖栦綋楠屽甯?- 浠庢祬灞備簡瑙ｅ埌娣卞害娌夋蹈鐨勭幇浠ｆ枃鍖栦紶鎵块潻鍛?2026-04-05T00:02:46Z
+馃挕 [for 绉熸埧浜虹兢] AI鏅鸿兘绉熸埧绠″鍔╂墜 - 浠庝俊鎭笉瀵圭О鍜岄珮鏄備腑浠嬭垂鐢ㄥ埌閫忔槑鍖栬嚜涓荤鎴夸笌鏅鸿兘灞呬綇鍐崇瓥鐨勭鎴跨敓娲婚潻鍛?2026-04-04T23:02:23Z
+馃挕 [for 闈掑皯骞碷 鎯呯华棰勮涓庢垚闀挎暀缁?- 浠庢儏缁尝鍔ㄩ毦瀵熻鍜屽績鐞嗗洶鎯戞棤澶勫€捐瘔鍒拌嚜鎴戣鐭ユ彁鍗囧拰鍋ュ悍鎯呯华绠＄悊鐨勬垚闀挎柊鐢熸€?2026-04-04T22:01:59Z
+馃挕 [for 鍩庡競鍏瘬灞呮皯] AI鏅鸿兘缁胯壊鐢熸椿鍔╂墜 - 浠庣┖闂撮檺鍒跺拰鐜繚鍥版儜鍒板彲鎸佺画鍩庡競鐢熸椿鐨勪釜浜虹幆淇濋潻鍛?2026-04-04T21:01:40Z
+馃挕 [for 鐙眳鑰佷汉鍙婃參鎬х梾鎮ｈ€匽 AI鏅鸿兘瀹夊叏瀹堟姢涓庣揣鎬ュ搷搴旂郴缁?- 浠庡畨鍏ㄩ殣鎮ｅ拰瀛ょ珛鏃犳彺鍒板叏澶╁€欏畧鎶や笌鍗虫椂鎻村姪鐨勫眳瀹跺畨鍏ㄤ繚闅滈潻鍛?2026-04-04T20:01:45Z
+馃挕 [for 灏忎紒涓氫富] AI鏅鸿兘鍒涗笟鍔犻€熷櫒 - 浠庡垱涓氶闄╁拰甯傚満涓嶇‘瀹氭€у埌鏁版嵁椹卞姩鐨勫彲鎸佺画鎴愬姛妯″紡
+馃挕 [for 鍐滄潙鍙婂亸杩滃湴鍖哄眳姘慮 AI鏅鸿兘涔℃潙鐢熸椿涓庣敓浜ц祴鑳藉钩鍙?- 浠庢暟瀛楅缚娌熷拰鍙戝睍婊炲悗鍒板叏鏂逛綅鏁板瓧鍖栨尟鍏寸殑涔℃潙鏅鸿兘闈╁懡
+馃挕 [for 鍐呭鍒涗綔鑰匽 AI鏅鸿兘澶氬钩鍙板唴瀹归€傞厤寮曟搸 - 浠庨噸澶嶅垱浣滀綆鏁堝埌涓€閿叏娓犻亾鍐呭鍒嗗彂鐨勬柊濯掍綋鐢熶骇鍔涢潻鍛?2026-04-04T16:02:18Z
+馃挕 [for 骞磋交鎵嬪伐鑹哄涔犺€匽 AR鏅洪€犲伐鑹哄潑 - 浠庢妧鑹烘祦澶卞拰瀛︿範鍥板鍒版矇娴稿紡浼犵粺宸ヨ壓澶嶅叴鐨勬暟瀛椾紶鎵块潻鍛?2026-04-04T15:02:09Z
+[for 涓勾鑱屽満浜篯 AI鑱屼笟杞瀷瀵煎笀 - 浠庤亴涓氬嵄鏈哄埌澶氬厓鎶€鑳藉彂灞曠殑鏂扮敓鎬?2026-04-04T10:57:39Z
+馃挕 [for 鍒堕€犱笟涓€绾垮伐浜篯 AI鏅鸿兘宸ヤ笟鐢熶骇涓€绾垮伐浜哄寮虹郴缁?- 浠庨珮椋庨櫓鎿嶄綔鍜屼綆鏁堢敓浜у埌浜烘満鍗忎綔鐨勬櫤鑳藉埗閫犳柊鐢熸€?2026-04-04T05:18:21Z
+馃挕 [for 鑱屽満鍑嗗濡堢兢浣揮 AI鏅鸿兘瀛曚骇鏈熻亴涓氬彲鎸佺画鍙戝睍鏁欑粌 - 浠庡瓡鏈熷伐浣滃帇鍔涘拰鑱屼笟鏂眰鐒﹁檻鍒扮瀛﹁亴鍦鸿鍒掍笌瀹跺涵鍜岃皭骞宠　鐨勭幇浠ｅコ鎬ц亴涓氶潻鍛?2026-04-03T20:29:14Z
+馃挕 [for 涓氫綑鎽勫奖鐖卞ソ鑰匽 AI鎽勫奖鎶€鑳借繘鍖栨暀缁?- 浠庤嚜瀛︽棤闂ㄥ拰鎶€鏈摱棰堝埌涓撲笟绾ф憚褰辫兘鍔涘煿鍏荤殑瑙嗚鑹烘湳闈╁懡
+馃挕 [for 澶у鐢熺兢浣揮 AI鏅鸿兘瀛︿範鐢熸椿骞宠　鏁欑粌 - 浠庣鐗囧寲瀛︿範妯″紡鍜屾椂闂寸鐞嗗洶澧冨埌绉戝瀛︿範鏁堢巼涓庡叏闈㈠彂灞曠殑澶у鎴愰暱闈╁懡
+馃挕 鏅鸿兘鎻愮ず宸ョ▼骞冲彴锛氳嚜鍔ㄤ紭鍖栧拰涓€у寲 AI 鎻愮ず璇?2026-04-03T12:01:24Z
+馃挕 [for 鏂版墜鐖舵瘝] AI鏅鸿兘鑲插効闄即鍔╂墜 - 浠庤偛鍎跨粡楠屼笉瓒冲拰鐒﹁檻鍥版壈鍒扮瀛﹁偛鍎垮拰韬績鏀炬澗鐨勭幇浠ｅ搴偛鍎块潻鍛?2026-04-03T11:01:44Z
+馃挕 [for 閫€浼戣€佸勾浜篯 AI璇煶瀹跺眳鎺у埗涓灑 - 浠庤澶囨搷浣滃洶闅惧拰绉戞妧鐒﹁檻鍒颁竴閿帉鎺у叏灞嬫櫤鑳界殑閾跺彂鏅烘収鐢熸椿闈╁懡
+馃挕 [for 瀹犵墿涓讳汉] AI鏅鸿兘瀹犵墿鎯呮劅瀹堟姢浼翠荆 - 浠庡垎绂荤劍铏戝拰鍋ュ悍鎷呭咖鍒板叏鏃舵鎯呮劅杩炴帴鐨勭瀛﹀吇瀹犻潻鍛?2026-04-03T09:03:57Z
+馃挕 [for 鏁板瓧娓告皯/杩滅▼宸ヤ綔鑰匽 AI鏅鸿兘璺ㄦ椂绌哄崗浣滀紮浼?- 浠庢椂鍖烘贩涔卞拰鏂囧寲闅旈槀鍒板叏鐞冩棤缂濆崗浣滅殑杩滅▼宸ヤ綔闈╁懡
+馃挕 [for 璇█闅滅搴峰鎮ｈ€匽 AI鏅鸿兘璇█搴峰璁粌浼翠荆 - 浠庢矡閫氶殰纰嶅拰绀句氦瀛ょ珛鍒拌瑷€鑷俊閲嶈幏鐨勭敓娲昏川閲忛潻鍛?2026-04-03T07:07:41Z
+馃挕 DocLing Pro: 澶氳瑷€鏂囨。鏅鸿兘澶勭悊骞冲彴 - 浼佷笟绾ф枃妗ｇ鐞?2026-04-03T07:04:02Z
+馃挕 EduGenius: 涓€у寲AI鏁欒偛瀵煎笀 - 鑷€傚簲瀛︿範骞冲彴
+馃挕 [for 鑰佸勾浜篯 AI鏅鸿兘鏁板瓧鐢熸椿闄即鍔╂墜 - 浠庢妧鏈劍铏戝拰鏁板瓧楦挎矡鍒拌嚜涓绘暟瀛椾韩涔愮殑閾跺彂鏁板瓧鐢熸椿闈╁懡
+馃挕 AI-Powered Accessibility Assistant for Diverse Needs
+馃挕 AI-Powered Smart Home Energy Optimization System
+馃挕 AI-Powered Mental Wellness Coach and Emotional Companion
+馃挕 AI-Powered Personalized Learning Companion for Lifelong Learners
+馃挕 AI-Powered Code Review Assistant with Real-time Collaboration
+馃挕 [for 鑱屽満鏂颁汉] AI鏅鸿兘鑱屽満瀵艰埅瀹?- 浠庣ぞ浜ょ劍铏戝拰浜鸿剦杩疯尗鍒拌嚜淇¤亴涓氬彂灞曠殑绀句氦鑳藉姏闈╁懡
+馃挕 [for 鏅€氬搴璢 AI鏅鸿兘瀹跺涵璐㈠姟绠″ - 浠庡垎鏁ｆ秷璐瑰拰棰勭畻澶辨帶鍒版櫤鑳藉寲鍏ㄥ璐㈠姟鍋ュ悍鐢熸€佺郴缁熺殑涓汉鐞嗚储闈╁懡
+馃挕 [for 涓氫綑鑹烘湳鐖卞ソ鑰匽 AI鏅鸿兘鑹烘湳鎴愰暱浼欎即 - 浠庤嚜瀛︽棤闂ㄥ拰鍒涗綔鐡堕鍒颁釜鎬у寲鑹烘湳鎶€鑳藉彂灞曠殑缁堣韩瀛︿範闈╁懡
+馃挕 Context-Aware GUI Automation with Visual Intelligence
+馃挕 AI-Powered Pair Programming for Teams
+馃挕 Spatial Audio AI for Immersive Voice Interfaces
+馃挕 Multi-Agent Debate Platform for Decision Making
+馃挕 AI Voice Assistant with Context Memory
+馃挕 [for 鐗规畩鏁欒偛宸ヤ綔鑰匽 AI鏅鸿兘宸紓鍖栨暀瀛﹂€傞厤鍣?- 浠庡鐢熻兘鍔涘樊寮傚ぇ鍜屾暀瀛﹁祫婧愭湁闄愬埌涓€у寲鐗规畩鏁欒偛鐢熸€佺郴缁?2026-04-03T02:03:37Z
+馃挕 AI闅愮淇濇姢娴忚鍣ㄦ墿灞曟娴嬪櫒
+馃挕 [for 鏁欒偛宸ヤ綔鑰匽 AI涓€у寲鏁欏閫傞厤鍣?- 浠庢爣鍑嗗寲鏁欏鏃犳硶婊¤冻涓€у寲瀛︿範闇€姹傚埌AI璧嬭兘鐨勫洜鏉愭柦鏁欓潻鍛?2026-04-03T01:06:48Z
+馃挕 AI 鍐崇瓥鐤插姵缂撹В鍔╂墜
+馃挕 [for 鏃呮父/閰掑簵鏈嶅姟浠庝笟鑰匽 AI鏅鸿兘澶氳瑷€鏈嶅姟浣撻獙浼樺寲甯?- 浠庤瑷€闅滅鍜屽鎴峰帇鍔涘埌鏃犵紳璺ㄦ枃鍖栨帴寰呬綋楠岀殑涓撲笟鏈嶅姟闈╁懡
+馃挕 [for 鑱屼笟杞瀷浜虹兢] AI鏅鸿兘鑱屼笟杩涘寲瀵艰埅鏁欑粌 - 浠庢妧鑳芥柇灞傚拰鑱屼笟杩疯尗鍒扮簿鍑嗚浆鍨嬬殑涓汉鍙戝睍闈╁懡
+馃挕 [for 鏂囧寲閬椾骇宸ヤ綔鑰?鍘熶綇姘戠ぞ鍖篯 AI鏅鸿兘鏂囧寲浼犳壙瀹堟姢鑰?- 浠庢枃鍖栨柇灞傚拰浠ｉ檯鐭ヨ瘑娴佸け鍒板彲鎸佺画鐨勬枃鍖栧熀鍥犳暟瀛楀寲姘哥画浼犳壙闈╁懡
+馃挕 [for 椁愬巺缁忚惀鑰?瀹跺涵涓诲帹] AI鏅鸿兘椋熺墿娴垂鍑忓皯鏁欑粌 - 浠庨鏉愯繃鏈熸氮璐瑰拰缁忔祹鎹熷け鍒扮簿鍑嗛鏉愮鐞嗗拰鍙寔缁楗殑闈╁懡
+馃挕 [for 楂樺帇涓撲笟浜哄＋] AI鍘嬪姏棰勮骞查绯荤粺 - 浠庨珮鍘嬪喅绛栫柌鍔冲拰鑱屼笟鍊︽€犲埌绮惧噯鍗辨満棰勯槻鐨勪笓涓氶煣鎬ч潻鍛?2026-04-02T17:02:03Z
+馃挕 [for 鏁版嵁绉戝瀹禲 AI鏅鸿兘瀹為獙璁捐浼樺寲鍣?- 浠庨噸澶嶆€ф暟鎹帰绱㈠拰妯″瀷璋冧紭璇曢敊鍒扮瀛﹀彂鐜板姞閫熺殑鍙噸澶嶆€ч潻鍛?2026-04-02T16:02:29Z
+馃挕 [for 涓撲笟娓告垙寮€鍙戣€匽 AI娓告垙骞宠　鎬ф櫤鑳戒紭鍖栨暀缁?- 浠庡弬鏁拌皟浼樿瘯閿欏拰鐜╁娴佸け椋庨櫓鍒版暟鎹┍鍔ㄧ殑瀹岀編娓告垙浣撻獙璁捐闈╁懡
+馃挕 [for 鐜繚娲诲姩瀹?姘斿€欒鍔ㄨ€匽 AI鍒涙剰鐜褰卞搷鍔涢噺鍖栧櫒 - 浠庣幆淇濊鍔ㄩ毦浠ラ噺鍖栧拰浼犳挱涔忓姏鍒板彲瑙嗗寲姘斿€欒嫳闆勬晠浜嬬殑鍏ㄦ皯鐜繚闈╁懡
+馃挕 [for 鐥村憜鐥囨偅鑰呭灞瀅 AI鏅鸿兘鐓ф姢闄即鍔╂墜 - 浠庣収鎶や俊鎭繃杞藉拰鎯呮劅鑰楃鍒板彲鎸佺画鐨勫搴収鎶ょ敓鎬佺郴缁?2026-04-02T13:02:18Z
+馃挕 [for 涓皬浼佷笟涓籡 AI璺ㄥ鏂囧寲閫傚簲鍔╂墜 - 浠庤法澧冧笟鍔℃枃鍖栭殰纰嶅埌鍏ㄧ悆鍖栧晢涓氭垚鍔熺殑鏅鸿兘妗ユ
+馃挕 AI Agent Memory Orchestrator - 缁熶竴璁板繂鏋舵瀯璁╂櫤鑳戒綋鎷ユ湁
+馃挕 [for 鎱㈡€х梾鎮ｈ€匽 AI鏅鸿兘鍋ュ悍鐢熸椿浼欎即 - 浠庣柧鐥呯鐞嗚礋鎷呭拰蹇冪悊鍘嬪姏鍒拌嚜涓诲仴搴锋帉鎺х殑鎱㈡€х梾鐢熸椿闈╁懡
+馃挕 [for 鍒涙剰涓撲笟浜哄＋/鑷敱鑱屼笟鑰匽 AI鍒涙剰蹇冪悊鍋ュ悍瀹堟姢鏁欑粌 - 浠庡垱浣滅劍铏戝拰鑱屼笟鍊︽€犲埌鍙寔缁垱鎰忕敓鎬佺郴缁熺殑蹇冪悊闊ф€ч潻鍛?2026-04-02T10:03:20Z
+馃挕 [for 鏁板瓧鍘熺敓浠ｉ潚灏戝勾] AI鏅鸿兘鏁板瓧钀ュ吇甯?- 浠庢矇杩风鐗囧寲濞变箰鍜屾敞鎰忓姏鍒嗘暎鍒板仴搴锋暟瀛楃礌鍏诲拰涓撴敞鍔涘煿鍏荤殑鏁板瓧鍘熺敓浠ｆ垚闀块潻鍛?2026-04-02T09:03:07Z
+馃挕 [for 鐜繚鎰忚瘑浜虹兢] 涓汉纰宠冻杩规櫤鑳芥暀缁?- 浠庣幆淇濇暟鎹鐗囧寲鍜岃涓烘敼鍙樺洶闅惧埌鍙寔缁敓娲绘柟寮忕殑涓€у寲纰冲噺鎺掗潻鍛?2026-04-02T08:08:13Z
+馃挕 RAG-Powered Code Documentation Generator: Automated Technical Documentation from Source Code Analysis
+馃挕 Dynamic GPU Memory Manager: Adaptive LLM Resource Allocation
+馃挕 AI Comment Sentiment Engine: Real-time Brand Monitoring on Social Media
+馃挕 [for 涓汉鏁呬簨璁茶堪鑰?鍙ｈ堪鍘嗗彶鏀堕泦鑰匽 AI璁板繂缂栫粐甯?- 浠庨浂鏁ｇ敓娲荤墖娈靛埌瀵屾湁鎯呮劅娓╁害鐨勬暟瀛椾紶鎵挎晠浜嬪簱
+馃挕 [for AI鍚堣瀹榏 鏅鸿兘AI鍚堣鑷€傚簲绯荤粺 - 浠庣鐗囧寲鐩戠瑕佹眰鍒颁紒涓氱骇AI鍚堣绠＄悊骞冲彴
+馃挕 [for AI Safety Engineers] AI浠ｇ悊琛屼负瀹夊叏娌欑 - 浠嶢I宸ュ叿婊ョ敤鍒板姩鎬佽涓虹害鏉熺殑瀹夊叏闈╁懡
+馃挕 [for AI Ethics Researchers] AI浜烘牸鏉冨埄涓庢暟瀛楄韩浠戒繚鎶ゆ鏋?- 浠嶢I浜烘牸渚垫潈鍒版暟瀛椾汉鏍兼潈鐩婂尯鍧楅摼瀹堟姢鍣ㄧ殑浼︾悊闈╁懡
+馃挕 [for 鍘熶綇姘戠ぞ鍖?璇█淇濇姢宸ヤ綔鑰匽 AI鏅鸿兘璇█鏂囧寲妗ｆ棣?- 浠庢繏鍗辫瑷€娑堜骸鍜屾枃鍖栨柇灞傚埌鏁板瓧鍖栨案缁紶鎵跨殑鏂囨槑淇濇姢闈╁懡
+馃挕 [for 瀹跺涵鐖舵瘝涓庡効绔 AI浜掑姩鏁呬簨鍒涢€犲紩鎿?- 浠庡睆骞曟椂闂村拰浜插瓙鐤忕鍒拌法浠ｅ垱鎰忚繛鎺ョ殑瀹跺涵濞变箰闈╁懡
+馃挕 AI 鍒涙剰鐏垫劅鐢熸垚寮曟搸
+馃挕 AI 涓汉鐭ヨ瘑鍥捐氨鏋勫缓鍣?2026-04-02T03:40:43Z
+馃挕 AI 澶氭ā鎬佷細璁褰曞垎鏋愬櫒
+馃摎 鏂囨。璐ㄩ噺鏀硅繘 - awesome-ai-ideas (褰撳墠璇勫垎: 2/5)
+馃挕 [for 鍒涙剰浣滃/浣滆€匽 AI鏅鸿兘鍒涗綔浼欎即 - 浠庡垱浣滅摱棰堝拰鐏垫劅鏋鍒颁釜鎬у寲鍒涙剰鐢熸€佺郴缁熺殑鍐欎綔闈╁懡
+馃挕 AI-Driven Satellite Communication Monitoring System
+馃挕 [for 鍒涗笟澶辫触鑰匽 AI鏅鸿兘閲嶇敓瀵艰埅鏁欑粌 - 浠庡け璐ラ槾褰卞拰鎶€鑳芥柇灞傚埌閲嶈幏淇″績鐨勮亴涓氭柊鐢熼潻鍛?2026-04-02T01:35:57Z
+馃挕 [for 鐭ヨ瘑宸ヤ綔鑰匽 AI鏅鸿兘璁ょ煡璐熻嵎绠＄悊鍔╂墜 - 浠庝俊鎭繃杞藉拰璁ょ煡鐤插姵鍒板彲鎸佺画鐨勬繁搴﹀伐浣滅敓鎬佺郴缁?2026-04-01T23:02:30Z
+馃挕 [for 蹇冪悊鍜ㄨ甯圿 AI鎯呮劅妗ｆ鏅鸿兘瑙ｆ瀽甯?- 浠庡挩璇㈣褰曠鐗囧寲鍜屾儏鎰熸ā寮忛毦鎹曟崏鍒扮簿鍑嗘礊瀵熺殑娌荤枟娣卞害闈╁懡
+馃挕 [for 浜у悗鏂板濡圿 AI鏅鸿兘浜у悗鎭㈠闄即鍔╂墜 - 浠庣潯鐪犲墺澶哄拰浜у悗鎯呯华宕╂簝鍒扮瀛﹁偛鍎夸笌鑷垜鍏虫€€鐨勫钩琛￠潻鍛?2026-04-01T21:13:17Z
+馃挕 [for 鍏ㄧ悆鏁板瓧娓告皯] AI鍏ㄧ悆璐㈠姟瀵艰埅瀹?- 浠庤法澧冩敹鍏ユ贩涔卞拰绋庡姟鍚堣鐒﹁檻鍒版櫤鑳藉寲鍏ㄧ悆鑱屼笟璐㈠姟鐢熸€佺郴缁?2026-04-01T20:12:39Z
+馃挕 [for 鑷棴鐥囧効绔ュ闀縘 AI绀句氦鎶€鑳借缁冨彲瑙嗗寲浼欎即 - 浠庢矡閫氶殰纰嶅拰璁粌涔忓懗鍒拌叮鍛冲寲浜掑姩鐨勭ぞ浜よ兘鍔涘煿鍏婚潻鍛?2026-04-01T19:02:29Z
+馃挕 [for 澶滅彮宸ヤ綔鑰匽 AI鐢熺墿鑺傚緥閲嶆暣鍔╂墜 - 浠庢樇澶滈鍊掑拰鍋ュ悍鍗辨満鍒板彲鎸佺画鐨勫闂村伐浣滆€呭仴搴风敓鎬佺郴缁?2026-04-01T18:13:03Z
+馃挕 [for 闆跺伐缁忔祹鑷敱鑱屼笟鑰匽 AI鏅鸿兘鏀跺叆绋冲畾鏁欑粌 - 浠庢敹鍏ユ尝鍔ㄥ拰瀹㈡埛鐒﹁檻鍒板彲鎸佺画鑷敱鑱屼笟鐢熸€佺郴缁熺殑璐㈠瘜闈╁懡
+馃挕 [for 鍦ㄦ牎澶у鐢焆 AI鏅鸿兘瀛︿範瀵艰埅寮曟搸 - 浠庤绋嬬鐗囧寲鍜屼俊鎭繃杞藉埌涓€у寲鐭ヨ瘑浣撶郴鐨勬櫤鑳藉涔犻潻鍛?2026-04-01T16:09:22Z
+馃挕 [for 鏂版墜鐖舵瘝] AI鏅鸿兘鑲插効瀵艰埅鏁欑粌 - 浠庤偛鍎夸俊鎭繃杞藉拰瀛ょ珛鏃犳彺鍒颁釜鎬у寲鑲插効绀惧尯鏀寔鐨勬櫤鑳介潻鍛?2026-04-01T15:34:38Z
+馃挕 [for 閮藉競鐧介缇や綋] AI鎯呯华骞宠　鏁欑粌 - 浠庣ぞ浜ょ劍铏戝拰宸ヤ綔鍘嬪姏绉帇鍒板彲鎸佺画鐨勫績鐞嗛煣鎬у仴搴风敓鎬佺郴缁?2026-04-01T14:08:11Z
+馃挕 [for 鑰佸勾浜篯 AI鏅鸿兘瀹跺涵杩炴帴鏁欑粌 - 浠庢妧鏈娇鐢ㄥ洶闅惧拰浠ｉ檯娌熼€氶缚娌熷埌璺ㄨ秺鏁板瓧楦挎矡鐨勭瀛欎翰鎯呴潻鍛?2026-04-01T13:10:33Z
+馃挕 [for 鍥介檯鍖栧洟闃焆 AI鏅鸿兘璺ㄦ枃鍖栧崗浣滀腑鏋?- 浠庤瑷€闅滅鍜屾枃鍖栬瑙ｅ埌鏃犵紳铻嶅悎鐨勫叏鐞冨洟闃熸櫤鑳介潻鍛?2026-04-01T12:23:27Z
+馃挕 [for 瀹犵墿涓讳汉] AI鏅鸿兘瀹犵墿鎯呮劅鍋ュ悍瀹堟姢鑰?- 浠庡疇鐗╄涓哄洶鎯戝拰鍖荤枟鍐崇瓥鍥伴毦鍒扮簿鍑嗙悊瑙ｅ疇鐗╅渶姹傜殑鏅鸿兘闄即鐢熸€佺郴缁?2026-04-01T11:02:13Z
+馃挕 [for 鏁板瓧鏃朵唬涓撲笟浜哄＋] AI鏅鸿兘鏁板瓧骞宠　瀹堟姢鑰?- 浠庝俊鎭繃杞藉拰鏁板瓧鐤插姵鍒板彲鎸佺画鐨勬暟瀛楃敓娲诲仴搴风敓鎬佺郴缁?2026-04-01T10:03:55Z
+馃挕 [for 鍐滄潙灞呮皯] 涔℃潙鏅烘収杩炴帴鍔╂墜 - 浠庢暟瀛楅缚娌熷拰淇℃伅闂鍒版暟瀛楁櫘鎯犲拰鏅鸿兘鍐滀笟闈╁懡
+馃挕 AI鍒涙剰锛氬熀浜嶩ugging Face瓒嬪娍鐨勫妯℃€佹帹鐞嗗姪鎵?2026-04-01T09:02:42Z
+馃挕 [for 鑹烘湳瀹?闊充箰瀹禲 AI鍒涙剰鍗忎綔杩涘寲绯荤粺 - 浠庣伒鎰熸灟绔拰鍒涗綔瀛ょ珛鍒拌法鐣岃瀺鍚堢殑鏃犻檺鍒涙剰鐢熸€佺郴缁?2026-04-01T08:06:21Z
+馃挕 璇煶鍔╂墜闆嗘垚骞冲彴锛欳laude Code涓嶵elegram鐨勫寮轰綋楠?2026-04-01T08:04:50Z
+馃挕 浼佷笟绾I鎴愭湰鐩戞帶骞冲彴锛氬疄鏃惰拷韪狢laude Code绛堿I宸ュ叿浣跨敤鎴愭湰
+馃挕 鎻愮ず璇嶄紭鍖栧紩鎿庯細闃叉AI浠ｇ悊琚繃搴﹀～濉炵殑鏅鸿兘杩囨护鍣?2026-04-01T08:04:13Z
+馃挕 鏅鸿兘DevOps鏁呴殰璇婃柇绯荤粺锛氬疄鏃跺簲鐢ㄥ仴搴风洃鎺?2026-04-01T08:03:30Z
+馃挕 AI浜嬪疄鏍告煡鍔╂墜锛氳嚜鍔ㄥ寲妫€娴嬪拰绾犳鎶€鏈唴瀹逛腑鐨勮櫄鏋勪俊鎭?2026-04-01T08:02:47Z
+馃挕 骞抽潰鏂囦欢AI浠ｇ悊妗嗘灦锛氱畝鍖栧鏉傛€х殑鏂拌寖寮?2026-04-01T08:02:30Z
+馃挕 AI婧愮爜娉勯湶棰勯槻宸ュ叿鍖咃細浠嶤laude Code浜嬫晠涓涔?2026-04-01T08:01:51Z
+馃挕 [for 灏忓瀷鍙寔缁垱涓氳€匽 EcoBiz AI鏅鸿兘鍙寔缁垱涓氱敓鎬佺郴缁?- 浠庨浂鏁ｈ繍钀ュ拰鍚堣鍥伴毦鍒拌妯″寲鍙寔缁彂灞曠殑缁胯壊鍟嗕笟闈╁懡
+馃挕 [for Environmental Conservation] AI-Powered Ecosystem Monitoring Network - From isolated data collection to unified environmental intelligence
+馃挕 [for 绀惧尯灞呮皯] AI鏅鸿兘绀惧尯闃茬伨鍗忎綔缃戠粶 - 浠庡悇鑷负鎴樺拰淇℃伅娣蜂贡鍒伴偦閲屼簰鍔╃殑绀惧尯闊ф€ч潻鍛?2026-04-01T06:03:34Z
+馃挕 [for 蹇冪悊鍋ュ悍浠庝笟鑰匽 AI鏅鸿兘娌荤枟鏂囨。闈╁懡绯荤粺 - 浠庣箒鐞愯褰曞拰鏁版嵁鍒嗘瀽浣庢晥鍒扮簿鍑嗘礊瀵熺殑鏅鸿兘娌荤枟鏂拌寖寮?2026-04-01T05:01:58Z
+馃挕 [for 绉戠爺宸ヤ綔鑰匽 AI鏅鸿兘瀹為獙娴佺▼鑷姩鍖栧紩鎿?- 浠庨噸澶嶅疄楠屾搷浣滃拰鏁版嵁鏁寸悊绻佺悙鍒伴珮鏁堝垱鏂扮殑绉戝鎺㈢储鏂拌寖寮?2026-04-01T04:05:24Z
+馃挕 AI-Powered Health and Wellness Companion
+馃挕 Multimodal AI Career Coach
+馃挕 AI Team Collaboration Hub
+馃挕 Voice-Controlled Desktop Automation AI
+馃挕 Cross-Platform AI Ad Management System
+馃挕 AI-Powered Email Marketing Assistant
+馃挕 [for 鑱屼笟杞瀷鑰匽 AI鏅鸿兘鑱屼笟閲嶇敓瀵艰埅绯荤粺 - 浠庤亴涓氳糠鑼拰鎶€鑳芥柇灞傚埌鑷俊杞瀷鐨勪釜浜哄搧鐗岄噸濉戦潻鍛?2026-04-01T03:11:03Z
+馃挕 鏅鸿兘浜戞湇鍔℃ā鎷熷櫒锛欰I浼樺寲鐨勬湰鍦板紑鍙戠幆澧?2026-04-01T02:10:19Z
+馃挕 AI鏂囦欢绠＄悊绯荤粺锛氬熀浜?鐐?鐨勬櫤鑳界粍缁囩畻娉?2026-04-01T02:10:12Z
+馃挕 鏋佸皬鍙傛暟LLM浼樺寲妗嗘灦锛氶儴缃?浣嶉噺鍖栨ā鍨?2026-04-01T02:10:06Z
+馃挕 AI浼板€艰拷韪钩鍙帮細瀹炴椂鐩戞帶AI鍏徃浼板€煎彉鍖?2026-04-01T02:09:58Z
+馃挕 寮€鍙慉I瀹夊叏瀹¤宸ュ叿锛氭娴婣I妯″瀷涓殑'鍋囧伐鍏?妯″紡
+馃挕 [for 鍒涙剰椤圭洰鍥㈤槦] AI鏅鸿兘鍒涙剰鍗忎綔涓灑 - 浠庡垱鎰忔祦绋嬬鐗囧寲鍜屾矡閫氬崗浣滀綆鏁堝埌鏃犵紳铻嶅悎鐨勬櫤鑳藉垱鎰忕敓鎬佺郴缁?2026-04-01T01:16:21Z
+馃挕 [for 鍏ㄧ悆鏁欒偛宸ヤ綔鑰匽 AI鑷€傚簲瀛︿範璺緞鐢熸垚鍣?- 浠庢爣鍑嗗寲鏁欏鍒颁釜鎬у寲瀛︿範闈╁懡鐨勬櫤鑳芥暀鑲茬敓鎬佺郴缁?2026-04-01T01:15:37Z
+馃挕 [for 绂诲/鍒嗗眳鐖舵瘝] 鏅鸿兘鍏辫偛鍗忚皟瀹?- 浠庢矡閫氬啿绐佸拰鍗忚皟鍥伴毦鍒板拰璋愬叡鑲茬敓鎬佺郴缁熷拰鏃犵紳鍚堜綔
+馃挕 [for 瑙嗛殰浜哄＋] AI澶氭ā鎬佹棤闅滅鐢熸椿鍔╂墜 - 浠庢暟瀛楀唴瀹硅幏鍙栭殰纰嶅拰鐙珛鐢熸椿渚濊禆鍒板叏鎰熷畼铻嶅悎鐨勮嚜涓荤敓娲婚潻鍛?2026-03-31T20:11:30Z
+馃挕 [for 缇庨鐖卞ソ鑰匽 AI鏅鸿兘缇庨浼欎即 - 浠庨璋卞洶鎯戝拰鐑归オ杩疯尗鍒颁釜鎬у寲缇庨鏃呯▼鐨勭児楗潻鍛?2026-03-31T19:02:02Z
+馃挕 [for 鍋ヨ韩鐖卞ソ鑰匽 AI鏅鸿兘杩愬姩闃叉姢涓庝釜鎬у寲璁粌绯荤粺 - 浠庣洸鐩仴韬拰杩愬姩浼ゅ椋庨櫓鍒扮瀛﹀畨鍏ㄧ殑鏁版嵁椹卞姩鍋ヨ韩闈╁懡
+馃挕 [for 绀句氦鐒﹁檻浜哄＋] AI绀句氦闃舵璁粌绯荤粺 - 浠庢亹鎯у洖閬垮埌鑷俊琛ㄨ揪鐨勭ぞ浜よ兘鍔涢噸濉戦潻鍛?2026-03-31T17:03:05Z
+馃挕 [for VR/AR鍐呭鍒涗綔鑰匽 AI澶氭ā鎬佹矇娴稿紡鍐呭璁捐鍔╂墜 - 浠庡垱浣滃伐鍏风鐗囧寲鍜岀敤鎴风悊瑙ｅ亸宸埌鍏ㄦ劅瀹樿瀺鍚堢殑涓嬩竴浠ｅ厓瀹囧畽鍐呭闈╁懡
+馃挕 [for 鏃呮父琛屼笟浠庝笟鑰匽 AI鏅鸿兘鏃呮父闇€姹傞娴嬪紩鎿?- 浠庡鎴烽渶姹傚鍙樺拰鏈嶅姟鏍囧噯鍖栧埌绮惧噯棰勬祴鍜屼釜鎬у寲浣撻獙鐨勬柊鏃呮父鐢熸€?2026-03-31T15:17:08Z
+馃挕 [for 绮剧鍋ュ悍鍏虫敞鑰匽 HarmonyFlow AI闊充箰鐤楁剤浼欎即 - 浠庨煶涔愮枟娉曠█缂哄拰涓€у寲涓嶈冻鍒扮簿鍑嗘儏缁皟鑺傜殑AI闊充箰闈╁懡
+馃挕 [for 绻佸繖鑱屽満浜哄＋] 鏅鸿兘鏃堕棿鍗忚皟瀹?- 浠庝换鍔＄鐗囧寲鍜屼紭鍏堢骇娣蜂贡鍒扮簿鍑嗛珮鏁堢殑鏃堕棿绠＄悊鏂扮敓鎬?2026-03-31T12:05:21Z
+馃挕 鏅鸿兘浜ら€氫俊鍙蜂紭鍖栫郴缁燂細鍩轰簬澶氭櫤鑳戒綋寮哄寲瀛︿範鐨勫煄甯備氦閫欰I瑙ｅ喅鏂规
+馃挕 [for 寤虹瓚琛屼笟浠庝笟鑰匽 AI鏅鸿兘寤虹瓚鍗忎綔骞冲彴 - 浠庡鍥㈤槦鍗忎綔娣蜂贡鍜屾枃妗ｇ鐞嗕綆鏁堝埌涓€浣撳寲鏅鸿兘寤洪€犳柊鐢熸€?2026-03-31T11:02:02Z
+馃挕 [for AI瀹夊叏鐮旂┒鍛榏 AI瀹夊叏鐮旂┒鍗忎綔骞冲彴 - 浠庡垎鏁ｇ爺绌跺拰纰庣墖鍖栫煡璇嗗埌绯荤粺鎬I瀹夊叏鐭ヨ瘑鐢熸€佺郴缁?2026-03-31T10:02:25Z
+馃挕 [for 澶氬瓙濂冲搴璢 AI鏅鸿兘瀹跺涵鐢熸€佺郴缁?- 浠庡鍔℃贩涔卞拰鏃堕棿鍗忚皟鍥伴毦鍒板拰璋愭湁搴忕殑瀹跺涵杩愯浆闈╁懡
+馃挕 [for 鍩庡競鐜繚涓讳箟鑰匽 AI涓汉纰宠冻杩规櫤鎱ф暀缁?- 浠庣幆淇濆洶鎯戝拰琛屼负鎯€у埌绉戝鍑忕⒊鐨勫彲鎸佺画鐢熸椿鏂瑰紡闈╁懡
+馃挕 [for 骞磋交鑱屽満浜篯 AI鏅鸿兘璐㈠姟鎴愰暱鏁欑粌 - 浠庤储鍔＄劍铏戝拰鍐崇瓥娣蜂贡鍒拌嚜淇＄悊璐㈢殑浜虹敓鎺屾帶闈╁懡
+馃挕 AI-Powered Accessibility Enhancer for Digital Content
+馃挕 Personalized Learning Companion AI for Skill Development
+馃挕 AI-Powered Code Review Assistant with Natural Language Explanations
+馃挕 [for 闆跺伐缁忔祹浠庝笟鑰匽 AI鏅鸿兘宸ヤ綔鏉冪泭瀹堟姢骞冲彴 - 浠庢敹鍏ヤ笉绋冲拰绀句細淇濋殰缂哄け鍒拌亴涓氬彲鎸佺画鍙戝睍鐨勯浂宸ョ敓鎬侀潻鍛?2026-03-31T04:05:37Z
+馃挕 [for 浼犵粺鎵嬪伐鑹轰紶鎵胯€匽 AI鏅鸿兘宸ヨ壓浼犳壙淇濇姢绯荤粺 - 浠庡伐鑹哄け浼犲拰鍒涙柊鐡堕鍒版暟瀛楀寲澶嶅叴鐨勪紶缁熸枃鍖栦紶鎵块潻鍛?2026-03-31T03:03:01Z
+馃挕 AI Workspace Orchestration Hub
+馃挕 [for 杩滅▼宸ヤ綔鑰匽 AI鏅鸿兘宸ヤ綔鐢熸椿骞宠　鏁欑粌 - 浠庡绔嬫劅鍔犲墽鍜屽伐浣滅敓娲荤晫闄愭ā绯婂埌绀惧尯杩炴帴鍜屾矇娴稿紡鍗忎綔浣撻獙鐨勯潻鍛?2026-03-31T02:03:32Z
+馃挕 AI-Powered Writing Assistant with Claude-style Optimization
+馃挕 AI-Powered Emotional Intelligence Training for Teams
+馃挕 AI-Powered Personalized Learning Assistant for Code Review
+馃挕 [for 鍒濆垱鍏徃鍒涘浜篯 AI鍒涗笟鍐崇瓥寮曟搸 - 浠庤瘯閿欐懜绱㈠拰鏁堢巼浣庝笅鍒版暟鎹┍鍔ㄧ殑鏅鸿兘鍒涗笟闈╁懡
+馃挕 [for 鏂板獟浣撳唴瀹瑰垱浣滆€匽 AI鏅鸿兘鍐呭瓒嬪娍棰勬祴寮曟搸 - 浠庤窡椋庡垱浣滃拰娴侀噺鐒﹁檻鍒扮簿鍑嗘妸鎻℃枃鍖栬剦鎼忕殑鍐呭鍒涗綔闈╁懡
+馃挕 [for 鍗氱墿棣嗙瓥灞曚汉鍛榏 AI鏅鸿兘鏂囧寲浣撻獙璁捐甯?- 浠庝紶缁熷睍瑙堟ā寮忓彈闄愬埌娌夋蹈寮忓妯℃€佹枃鍖栨劅鐭ラ潻鍛?2026-03-30T22:01:47Z
+馃挕 [for 鍐滄潙鍦板尯瀛︾敓] AI鏅烘収涔℃潙鏁欒偛鍔╂墜 - 浠庢暀鑲茶祫婧愬尞涔忓拰瀛︿範鏈轰細涓嶅潎绛夊埌浜嗚Е鎵嬪彲鍙婄殑涓€у寲鏅鸿兘鏁欒偛闈╁懡
+馃挕 [for 鏂囧寲閬椾骇瀹堟姢鑰匽 AI鏅烘収鏂囧寲閬椾骇鏁板瓧瀛敓瀹堟姢鑰?- 浠庢枃鐗╄剢寮卞拰浼犳壙鍗辨満鍒版案缁繚鎶ょ殑鏁板瓧鍖栨枃鏄庝紶鎵块潻鍛?2026-03-30T20:02:13Z
+馃挕 [for 鑱屼笟杩愬姩鍛榏 AI鏅鸿兘杩愬姩鐢熸动瑙勫垝甯?- 浠庤繍鍔ㄧ敓娑煭鏆傚拰杞瀷杩疯尗鍒板彲鎸佺画鍙戝睍鐨勫鍏冨寲鑱屼笟鐢熸€佺郴缁?2026-03-30T19:01:55Z
+馃挕 [for 鐙眳鑰佸勾浜篯 AI鏅烘収绀句氦璁板繂缂栫粐鑰?- 浠庣ぞ浜ゅ绔嬪拰璁板繂鍒嗕韩缂哄け鍒颁唬闄呰繛鎺ョ殑鎯呮劅浼犳壙骞冲彴
+馃挕 [for 瀹犵墿涓讳汉] AI瀹犵墿鐢熸椿鏅烘収绠″ - 浠庣劍铏戝吇瀹犲埌绉戝鍏诲疇鐨勫叏闈㈠疇鐗╁仴搴风鐞嗛潻鍛?2026-03-30T17:02:54Z
+馃挕 [for 涓綋缁忚惀鑰匽 AI寰瀷鍒涗笟瀵煎笀 - 浠庡晢涓氬皬鐧藉埌鎴愬姛涓綋鍟嗘埛鐨勬垚闀夸箣璺?2026-03-30T15:12:59Z
+馃挕 [for 瀛︿範闅滅鍎跨] AI鐗规畩鏁欒偛瀛︿範鏁欑粌 - 浠庢暀鑲蹭笉骞崇瓑鍒颁釜鎬у寲瀛︿範鏈轰細
+馃挕 [for 涓枃鍒涗綔鑰匽 AI涓枃鍒涗綔鏅烘収浼欎即 - 浠庡垱浣滅摱棰堝拰璇昏€呯悊瑙ｅ亸宸埌璺ㄦ椂浠ｅ叡楦ｇ殑鏂囧鍒涗綔椋炶穬
+馃挕 [for 鍒涙剰璁捐甯圿 AI鍒涙剰宸ヤ綔鍙?- 浠庣伒鎰熸灟绔拰纰庣墖鍖栧崗浣滃埌璺ㄥ獟浣撳垱浣滀竴浣撳寲闈╁懡
+馃挕 [for 蹇冪悊鍋ュ悍浠庝笟鑰匽 AI鏁板瓧鐤楁硶鍔╂墜 - 浠庝紶缁熷挩璇㈠埌绮惧噯鏁板瓧鍖栧共棰?2026-03-30T13:13:20Z
+馃挕 [for 鍐滀笟鍚堜綔绀綸 AI鏅鸿兘鍐滀笟鐢熸€佺洃娴嬬郴缁?2026-03-30T13:12:53Z
+馃挕 [for 缂栫▼鏂版墜] AI鏅鸿兘缂栫▼鎴愰暱浼欎即 - 浠庝俊鎭繃杞藉拰淇″績缂哄け鍒版笎杩涘紡椤圭洰瀹炴垬鐨勭紪绋嬭兘鍔涢璺?2026-03-30T13:02:03Z
+馃挕 [for 娉曞緥浠庝笟鑰匽 AI鏅鸿兘娉曞緥鐮旂┒鍔╃悊 - 浠庢捣閲忔硶寰嬫枃涔︾殑鑰楁椂妫€绱㈠埌绮惧噯楂樻晥鐨勬硶寰嬭В鍐虫柟妗堟櫤鑳界敓鎴愮郴缁?2026-03-30T12:04:17Z
+馃挕 [for 蹇冪悊鍜ㄨ甯圿 AI鏅鸿兘鎯呮劅瀵硅瘽鍒嗘瀽寮曟搸 - 浠庝富瑙傚垽鏂拰鏁版嵁缂哄け鍒扮簿鍑嗗績鐞嗚瘎浼扮殑鏅鸿兘鍜ㄨ杈呭姪绯荤粺
+馃挕 Real-time Multimodal Content Moderation System
+馃挕 Multimodal Virtual Product Showcase Assistant
+馃挕 AI-Powered Multimodal Code Review Assistant
+馃挕 AgentOrchestrator: Unified CLI Layer for Multi-Agent Development
+馃挕 AIDefender: Proactive Security Framework Against AI Exploit Agents
+馃挕 ProposalForge: AI-Powered Freelance Proposal Generator
+馃挕 TrustShield: AI Browser Agent Security Evaluation Layer
+馃挕 [for 瀹跺涵] AI浜掑姩娓告垙寮曟搸 - 浠庣鐗囧寲灞忓箷鏃堕棿鍒伴珮璐ㄩ噺瀹跺涵鍗忎綔浣撻獙
+馃挕 [for 鐖舵瘝] AI鍎跨鏁呬簨鍒涗綔瀵煎笀 - 浠庡繖纰屽闀垮埌涓€у寲鏁呬簨浣滃
+馃挕 [for 涓勾鑱屽満杞瀷鑰匽 AI鏅鸿兘鑱屼笟閲嶇敓寮曟搸 - 浠庢妧鑳借繃鏃跺拰琛屼笟澹佸瀿鍒拌法鐣屾垚鍔熺殑楂樻晥杞瀷绯荤粺
+馃挕 [for 鐜淇濇姢宸ヤ綔鑰匽 AI鐜鐩戞祴鏅鸿兘棰勮绯荤粺 - 浠庢暟鎹繃杞藉拰鍝嶅簲婊炲悗鍒扮簿鍑嗛娴嬬殑鐜繚琛屽姩鎸囨尌涓績
+馃挕 Ethical AI Framework for Responsible Development
+馃挕 AI-Driven Healthcare Innovation Platform
+馃挕 [for 鏃呰鐖卞ソ鑰匽 AI鏅烘収鏃呰瑙勫垝澶у笀 - 浠庣箒鐞愯鍒掑埌鏅鸿兘鏃犲咖鐨勫畬缇庢梾琛屼綋楠?2026-03-30T05:13:23Z
+馃挕 [for 绀惧尯搴旀€ュ搷搴斿洟闃焆 AI鏅烘収绀惧尯搴旀€ュ崗璋冨畼 - 浠庝俊鎭粸鍚庡拰璧勬簮鍒嗘暎鍒板疄鏃惰仈鍔ㄧ殑楂樻晥绀惧尯闃茬伨鏁戞彺绯荤粺
+馃挕 [for 渚涘簲閾剧鐞嗚€匽 AI鏅鸿兘渚涘簲閾惧崗璋冨ぇ甯?- 浠庝俊鎭宀涘拰琚姩鍝嶅簲鍒伴娴嬫€т竴浣撳寲鏅鸿兘鍐崇瓥绯荤粺
+馃攧 FlowState - Self-Organizing Adaptive Workspace
+馃攳 ContextScout - Persistent AI Research Companion
+馃棧锔?VoiceForge - Parallel Voice-Driven Development Environment
+馃挕 [for 娣峰悎娲诲姩绛栧垝甯圿 AI鏅鸿兘娲诲姩鍗忚皟澶у笀 - 浠庢贩涔辩殑绾夸笂绾夸笅鍗忚皟鍒版棤缂濇矇娴稿紡浣撻獙鐨勬櫤鑳芥椿鍔ㄧ鐞嗗钩鍙?2026-03-30T03:20:46Z
+馃挕 [for 娈嬮殰浜哄＋] AI鏃犻殰纰嶇敓娲讳即渚?- 澶氭ā鎬佷氦浜掔殑鍏ㄩ潰杈呭姪绯荤粺
+馃挕 [for 鑰佸勾浜篯 AI閫傝€佸寲鐢熸椿绠″ - 浠庡眳瀹跺畨鍏ㄥ埌鎯呮劅闄即鐨勬櫤鑳借В鍐虫柟妗?2026-03-30T03:15:44Z
+馃挕 [for 鑰冨彜瀛﹀鍜屽巻鍙茬爺绌惰€匽 AI鏃剁┖鏂囩墿閲嶅缓澶у笀 - 浠庣鐗囧寲鏂囩墿鍜屽巻鍙茬嚎绱㈡ā绯婂埌娌夋蹈寮忔椂绌轰綋楠岀殑鏅鸿兘鑰冨彜閲嶅缓绯荤粺
+馃挕 AI Agent Commerce Protocol: Cross-Platform Agent-to-Agent Marketplace
+馃挕 [for 寤虹瓚鐜板満宸ヤ汉] AI鏅鸿兘宸ュ湴鍔╂墜 - 浠庣箒鐞愮殑鏃ュ父璁板綍鍜屽畨鍏ㄩ殣鎮ｉ毦浠ュ強鏃跺彂鐜板埌鏁板瓧鍖栥€佹櫤鑳藉寲鐨勭幇浠ｅ寲鏂藉伐鐜板満
+馃挕 [for 瀹犵墿涓讳汉] AI瀹犵墿蹇冪悊鍋ュ悍涓庤涓哄垎鏋愬笀 - 浠庣寽璋滃紡鍏诲疇鍒扮瀛﹀叧鐖辩殑鏂版椂浠?2026-03-29T19:13:19Z
+馃挕 [for 鍐呭鍒涗綔鑰匽 AI涓€у寲鍐呭鍒涗綔鍔╂墜 - 浠庣伒鎰熸灟绔埌鐖嗘鍐呭鐨勬櫤鑳藉垱浣滃紩鎿?2026-03-29T17:03:51Z
+馃挕 [for 鍐滄皯] AI鏅鸿兘鍐滀笟鍔╂墜 - 浠庣粡楠岀妞嶅埌鏁版嵁椹卞姩鐨勭簿鍑嗗啘涓?2026-03-29T17:03:34Z
+馃挕 [for 鑰佸勾浜篯 AI 鏅鸿兘瀹跺眳鐢熸椿鍔╂墜 - 浠庢暟瀛楅缚娌熷埌鏅烘収鍏昏€佺殑瀹夊叏渚挎嵎鐢熸椿
+馃挕 [for 涓皬浼佷笟] AI 浼佷笟鐭ヨ瘑绠＄悊鍔╂墜 - 浠庣煡璇嗙鐗囧寲鍒颁紒涓氭櫤鎱х殑鏅鸿兘鏁村悎绯荤粺
+馃挕 [for 鏂版墜鐖舵瘝] AI鑲插効鏅烘収闄即甯?- 浠庤偛鍎跨劍铏戝拰鐭ヨ瘑杩囪浇鍒扮瀛﹁偛鍎跨殑淇″績寤虹珛绯荤粺
+馃挕 [for 鍩庡競灞呮皯] AI 鏅鸿兘鐜繚鐢熸椿鍔╂墜 - 浠庝綆纰虫剰璇嗗埌鍙寔缁疄璺电殑瀹岀編杞瀷
+馃挕 [for 浠ｉ檯瀹跺涵] AI鏂囧寲浼犳壙妗ユ - 浠庝唬闄呴殧闃傚埌鏂囧寲鍏遍福鐨勭悊瑙ｅ姪鎵?2026-03-29T13:05:07Z
+馃挕 [for Z涓栦唬骞磋交浜篯 AI铏氭嫙绀句氦濞变箰骞冲彴 - 浠庢棤鑱婂埛鐭棰戝埌娌夋蹈寮忕ぞ浜ゆ柊浣撻獙
+馃挕 [for 鑱屽満杞瀷鑰匽 AI 鏅鸿兘鑱屼笟杞瀷鏁欑粌 - 浠庤糠鑼拰涓嶇‘瀹氭€у埌娓呮櫚鑱屼笟璺緞鐨勭簿鍑嗗鑸郴缁?2026-03-29T13:03:50Z
+馃挕 [for 绀句氦濯掍綋褰卞搷鑰匽 AI 鏁板瓧鍒嗚韩绠″ - 浠庢暟瀛楄韩浠界鐗囧寲銆侀殣绉佹硠闇茬劍铏戝埌涓€閿帉鎺у叏缃戣韩浠姐€丄I 鏅鸿兘闃叉姢
+馃挕 [for 鍐呭鍒涗綔鑰匽 AI 涓汉鏁板瓧韬唤瀹堟姢鑰?- 浠庨殣绉佹硠闇插拰鍝佺墝瀹夊叏濞佽儊鍒版櫤鑳藉彲鎺х殑鏁板瓧褰卞搷鍔?2026-03-29T10:02:46Z
+馃挕 [for 蹇冪悊鍋ュ悍涓撲笟浜哄＋] AI 娌荤枟甯堟櫤鑳藉姪鎵?- 浠庢墜鍔ㄨ褰曠箒鐞愬拰涓绠＄悊娣蜂贡鍒版暟鎹┍鍔ㄧ殑绮惧噯娌荤枟鍐崇瓥
+馃挕 [for 鏁板瓧娓告皯] AI 鍏ㄧ悆宸ヤ綔鐢熸椿鍗忚皟澶у笀 - 浠庢椂宸贩涔卞拰浣庢晥濂旀尝鍒伴珮鏁堣嚜鐢辫亴涓氳€呯殑瀹岀編骞宠　
+馃挕 Memory Weaver: Tiered Persistence for AI Agent Memory
+馃挕 ToolMesh: Universal Context & Tool Bridge for AI Models
+馃挕 Agent Wallet: Autonomous Budget Manager for AI Agents
+馃挕 AsyncRhythm: AI-Orchestrated Asynchronous Team Synchronization
+馃挕 RTL Bridge: Hardware Description Language Toolkit for AI Coding Agents
+馃挕 OmniBridge: Unified AI Tool Interconnect Platform
+馃挕 RTLTranslate: AI-Powered Right-to-Left Code Translation
+馃挕 SyncAI: Intelligent Meeting Replacement System
+馃挕 PayAI: Autonomous Payment Orchestration Engine
+馃挕 MemorySwap: Ephemeral Database-as-a-Service for AI Agents
+馃挕 [for 灏忎紒涓氫富] AI 鍟嗕笟鏅烘収涓灑 - 浠庣洸鐩珵浜夊拰杩愯惀娣蜂贡鍒版暟鎹┍鍔ㄥ喅绛栫殑绮惧噯鍟嗕笟鏅鸿兘绯荤粺
+馃挕 Dynamic Knowledge Graph RAG System
+馃挕 Multimodal Emotion-Aware Conversational AI
+馃挕 Self-Organizing Scientific Discovery System
+馃挕 Adaptive Multi-Agent Trading Ecosystem
+馃挕 [for 鍖诲鐮旂┒鑰匽 AI 鐮旂┒鏅哄泭浼欎即 - 浠庤鏂囪糠鑸拰瀹為獙鍥版儜鍒扮獊鐮存€у彂鐜扮殑鏅烘収鍔犻€熷櫒
+馃挕 [缁堣韩瀛︿範鑰匒I浼欎即] AI涓€у寲瀛︿範璺緞瑙勫垝甯?- 浠庣煡璇嗙鐗囧埌涓撲笟浣撶郴鐨勬櫤鑳藉涔犵郴缁?2026-03-29T06:04:00Z
+馃挕 [鐜颁唬鑱屽満浜篈I鍔╂墜] AI宸ヤ綔鐢熸椿骞宠　鏁欑粌 - 浠庤亴涓氬€︽€犲埌鍙寔缁亴涓氬彂灞曠殑鏅鸿兘闄即绯荤粺
+馃挕 [浼佷笟鏁板瓧鍖栬浆鍨婣I椤鹃棶] AI涓氬姟娴佺▼浼樺寲甯?- 涓轰紶缁熶紒涓氭彁渚涗粠鎴樼暐鍒拌惤鍦扮殑鍏ㄦ柟浣嶆暟瀛楀寲杞瀷瑙ｅ喅鏂规
+馃挕 [for Z涓栦唬鐜繚涓讳箟鑰匽 AI 鐜繚琛屼负鏁欑粌 - 浠庣幆淇濇剰璇嗛珮琛屽姩鍔涗綆鍒版棩甯镐範鎯彲鎸佺画鐢熸椿鐨勫畬缇庤浆鍨?2026-03-29T05:01:51Z
+馃挕 [for 鐭ヨ瘑宸ヤ綔鍥㈤槦] AI 鍥㈤槦鐭ヨ瘑鍥捐氨澶у笀 - 浠庝俊鎭繃杞藉拰鍗忎綔鏂偣鍒版櫤鑳借繛鎺ョ殑闆嗕綋鏅烘収缃戠粶
+馃挕 [for 杩滅▼鍥㈤槦绠＄悊鑰匽 AI 鍏ㄧ悆鍥㈤槦鍗忚皟澶у笀 - 浠庢椂宸贩涔卞拰娌熼€氶殧闃傚埌楂樻晥鍗忎綔鐨勫叏鐞冩ⅵ鎯冲洟闃?2026-03-29T03:03:28Z
+馃挕 AI Agent Ecosystem Orchestrator - 璺ㄥ钩鍙癆I浠ｇ悊鍗忚皟绯荤粺
+馃挕 [for 鐙眳鑰佷汉] AI 鏅鸿兘鍋ュ悍瀹堟姢鑰?- 浠庡仴搴烽闄╂棤浜虹煡鏅撳埌鍏ㄥぉ鍊欏畨蹇冨畧鎶ょ殑瀹岀編鐢熸椿
+馃挕 Linux鍐呮牳浣滀负瑙ｉ噴鍣ㄦ鏋?2026-03-29T02:02:41Z
+馃挕 鏅鸿兘Linux搴旂敤杩佺Щ骞冲彴
+馃挕 [for 鎴峰杩愬姩鐖卞ソ鑰匽 AI 鏅鸿兘鎺㈤櫓浼翠荆 - 浠庣洸鐩啋闄╁埌瀹夊叏鐜繚鐨勫畬缇庡钩琛?2026-03-29T01:09:00Z
+馃挕 AI姘戜富鍖栵細浣庝唬鐮佽嚜涓讳唬鐞嗙敓鎴愬櫒
+馃挕 [for 鐙珛闊充箰浜篯 AI 闊充箰鐢熸动鍔犻€熷櫒 - 浠庡鍐涘鎴樻棤浜虹煡鏅撳埌鎴愪负琛屼笟鏂版槦鐨勫畬缇庤穬鍗?2026-03-29T00:02:33Z
+馃挕 [for 浼犵粺鑹烘湳鍒涗綔鑰匽 AI浼犵粺鑹烘湳鏁板瓧鍖栧紩鎿?- 浠庨潤鎬佷綔鍝佸睍绀哄埌娌夋蹈寮忔暟瀛楀彊浜?2026-03-28T23:02:03Z
+馃挕 [for 浼犵粺鑹烘湳鍒涗綔鑰匽 AI浼犵粺鑹烘湳鏁板瓧鍖栧紩鎿?- 浠庨潤鎬佷綔鍝佸睍绀哄埌娌夋蹈寮忔暟瀛楀彊浜?2026-03-28T23:01:48Z
+馃挕 [for 鏃呰鐖卞ソ鑰匽 AI 鏅鸿兘鏃呰鍙傝皨 - 浠庡崈绡囦竴寰嬬殑璺熷洟娓稿埌鍗冧汉鍗冮潰鐨勭浜哄畾鍒跺啋闄?2026-03-28T21:02:17Z
+馃挕 [for 鍐滄潙瀛︾敓] AI 鏁欒偛妗ユ甯?- 浠庢暀鑲茶祫婧愬尞涔忓埌鍩庡競鍚嶅笀闆惰窛绂昏緟瀵?2026-03-28T20:01:41Z
+馃挕 [for 灏忓鐢熷闀縘 AI 瀹跺涵浣滀笟鍗忚皟甯?- 浠庝翰瀛愬叧绯荤揣寮犲埌鍏卞悓鎴愰暱鐨勫拰璋愬涔犳皼鍥?2026-03-28T18:01:47Z
+馃挕 [for 鏅€氬搴璢 AI瀹跺眳鏅鸿兘绠″ - 浠庢墜蹇欒剼涔辩殑瀹跺眳绠＄悊鍒板叏灞嬫櫤鑳藉崗璋冪殑瀹岀編鐢熸椿
+馃挕 [for 鑷敱鑱屼笟鑰匽 AI 瀹㈡埛鍏崇郴榄旀硶甯?- 浠庨浂鏁ｅ鎴风鐞嗗埌寤虹珛鍙寔缁殑涓汉鍝佺墝鍟嗕笟甯濆浗
+馃挕 [for 鍒涙剰宸ヤ綔鑰匽 AI 鍒涙剰鎼。 - 浠庡垱浣滅摱棰堝埌鐏垫劅姘镐笉鏋
+馃挕 [for 鏂版墜濡堝] AI 鑲插効鏅鸿兘涓灑 - 浠庢墜蹇欒剼涔卞穿婧冭竟缂樺埌浠庡鑷俊鐨勮偛鍎夸笓瀹?2026-03-28T13:02:23Z
+馃挕 [for 璁ょ煡搴峰浜虹兢] AI 绁炵粡鍙鎬ц缁冨笀 - 浠庤鐭ュ姛鑳戒笅闄嶅埌澶ц剳閲嶆柊鐒曞彂娲诲姏
+馃挕 [Parallel AI + DAG Workflows] AI Task Orchestration Engine for Scalable Multi-Agent Collaboration
+馃挕 [AI Coding Workstation + Context Optimization] Interactive AI Development Environment with Real-time Token Monitoring
+馃挕 [for 閫€浼戣€佷汉] AI 鏅鸿兘鐢熸椿璁捐甯?- 浠庢棤鎵€浜嬩簨鍒扮簿褰╃悍鍛堢殑閫€浼戠浜屼汉鐢?2026-03-28T11:03:10Z
+馃挕 [for 鐭ヨ瘑宸ヤ綔鑰匽 AI 鎰忓浘娴佸姩鍗忚皟鍣?- 浠庡簲鐢ㄥ垏鎹㈢柌鍔冲埌娌夋蹈寮忓伐浣滄祦
+馃挕 [for 澶栧崠楠戞墜] AI 璺緞浼樺寲澶ц剳 - 浠庨殢鏈烘姠鍗曠柌鍔冲娉㈠埌鏅鸿兘瑙勫垝鏀跺叆鏈€澶у寲
+[Idea] Multi-Modal AI Agent Orchestra: 鍩轰簬2026骞碒ugging Face瓒嬪娍鐨勫垱鎰忓簲鐢?2026-03-28T09:03:12Z
+馃挕 [for 蹇冪悊鍋ュ悍鍜ㄨ甯圿 AI 鎯呯华鍥捐氨鍒嗘瀽甯?- 浠庝富瑙傚垽鏂ā绯婂埌瀹㈣鏁版嵁杈呭姪鍐崇瓥
+馃挕 Ephemera: MCP-Powered Multi-Platform Content Replication Engine with Temporal Memory
+馃挕 [for 杩愬姩鎷栧欢鐥囦汉缇 AI鍋ヨ韩鏅轰即 - 浠?鍒嗛挓鐑害鍒板吇鎴愮粓韬繍鍔ㄤ範鎯?2026-03-28T07:02:54Z
+馃挕 Cross-Modal Document Intelligence with Memory-Augmented Parsing
+馃挕 [for 鐞嗚储灏忕櫧] AI 璐㈠瘜鍚挋鏁欑粌 - 浠庡鐞嗚储涓€绐嶄笉閫氬埌鏈堟湀鐪嬬潃璧勪骇绋冲仴澧炲€?2026-03-28T06:05:00Z
+馃挕 Self-Improving AI Models: Automated Performance Optimization System
+馃挕 AI Digital Identity Protection & Authenticity Verification System
+馃挕 Adaptive Robot Learning: Self-Improving Physical Intelligence
+馃挕 AI Personality & Creative Identity Framework
+馃挕 Hybrid Reasoning AI Framework: Combining Symbolic and Neural Approaches
+馃挕 Privacy-Preserving AI Search Engine with Differential Privacy
+馃挕 AI Music Producer Assistant: Ethical Sampling & Attribution System
+馃挕 [for 鍏诲疇涓婄彮鏃廬 AI 瀹犵墿鎯呯华缈昏瘧瀹?- 浠庡彧鑳介潬鐚滃疇鐗╁績鎯呭埌瀹炴椂璇绘噦姣涘瀛愮殑鍠滄€掑搥涔?2026-03-28T05:02:25Z
+馃挕 [for 瑙嗛殰浜哄＋] AI 绌洪棿鏅烘収鐪?- 浠庝緷璧栦粬浜哄紩瀵煎埌鐙珛鎺㈢储涓栫晫鐨勬瘡涓€姝?2026-03-28T04:03:25Z
+馃挕 [for 鑱屽満杩疯尗鏃廬 AI鑱屼笟瀵艰埅甯?- 浠庡鏈潵鑱屼笟閬撹矾涓嶇‘瀹氳糠鑼埌娓呮櫚瑙勫垝姣忎竴姝ュ彂灞曡矾寰?2026-03-28T03:03:49Z
+馃挕 AI-Powered Website Generation Platform
+馃挕 AI-Powered Video Creation Workflow Platform
+馃挕 AI-Powered Daily Planning Assistant
+馃挕 AI-Powered E-commerce Personalization Engine
+馃挕 AI-Powered Sleep Optimization Coach
+馃挕 [for 鎱㈡€х梾鎮ｈ€匽 AI 鐢ㄨ嵂瀹夊叏绠″ - 浠庤閿欒嵂鍚冮敊鑽埌绮惧噯瀹夊績鐢ㄨ嵂
+馃挕 AI-Powered Code Review Assistant with Context Awareness
+馃挕 [for 鐤叉儷瀹堕暱] AI瀹跺涵浣滀笟杈呭甯?- 浠庤緟瀵间綔涓氶浮椋炵嫍璺冲埌浜插瓙鍜岃皭鍏卞
+馃挕 [for 鐒﹁檻鐜颁唬浜篯 AI 鎯呯华璋冭妭鏁欑粌 - 浠庡帇鍔涘北澶х劍铏戜笉瀹夊埌鍐呭績骞抽潤涓撴敞楂樻晥
+馃挕 [for 鑰佸勾浜篯 AI 鏁板瓧闃查獥灏忓崼澹?- 浠庢墜鏈鸿瘓楠楅槻涓嶈儨闃插埌瀹夊叏鏃犲咖鐣呬韩鏁板瓧鐢熸椿
+馃挕 [for 鐜繚鎰忚瘑鏃廬 AI 纰宠冻杩硅拷韪姪鎵?- 浠庢ā绯婄殑鐜繚姒傚康鍒版瘡澶╁彲閲忓寲鐨勭豢鑹茬敓娲?2026-03-27T20:02:01Z
+馃挕 [for 瑙嗛鍓緫甯圿 AI 鍒涙剰鍓緫寮曟搸 - 浠庢ā鏉垮寲鍓緫鍒版瘡甯ч兘鎯婅壋鐨勮瑙夋晠浜?2026-03-27T19:02:30Z
+馃挕 [for 璇█瀛︿範鑰匽 AI 璇█鏅烘収闄粌 - 浠庡搼宸村璇笉鏁㈠紑鍙ｅ埌鑷俊娴佸埄瀵硅瘽
+馃挕 [for AI宸ュ叿寮€鍙戣€匽 AI鍗忎綔鐏垫劅寮曟搸 - 浠庝釜浜哄垱浣滅摱棰堝埌鍏ㄧ悆鍒涙剰纰版挒
+馃挕 [for 璺ㄦ椂鍖鸿繙绋嬪洟闃焆 AI 鎯呯华鍗忚皟瀹?- 浠庡紓姝ュ伐浣滅殑"鍥㈤槦娑堝け鎰?鍒版瘡涓垚鍛橀兘琚湅瑙佸拰鍏冲績鐨勫崗浣滄皼鍥?2026-03-27T16:10:06Z
+馃挕 [for 鐙眳鑰佷汉瀛愬コ] AI 瀹跺涵鍋ュ悍鍝ㄥ叺 - 浠庡崈閲屼箣澶栫殑鎷呭績鍒版瘡澶╁畨蹇冩帉鎻＄埜濡堣韩浣撶姸鍐?2026-03-27T15:04:57Z
+馃挕 [for 椤圭洰鏂颁汉] AI 椤圭洰璺緞瑙勫垝甯?- 浠庢墜瓒虫棤鎺埌鏈夊簭鎺ㄨ繘
+馃挕 [for 澶囪€冪敓] AI 鏅鸿兘瀛︿範浼翠荆 - 浠庝复鏃舵姳浣涜剼鍒伴珮鏁堟帉鎻℃瘡涓煡璇嗙偣
+馃挕 [for 鍩庡競灏忛槼鍙版棌] AI 鍥壓璁捐甯?- 浠庢鐗╂潃鎵嬪埌闃冲彴灏忔．鏋?2026-03-27T12:14:48Z
+馃挕 AI Workspace Orchestrator - 鐢ㄨ亰澶╃晫闈㈢鐞嗗AI宸ヤ綔娴?2026-03-27T12:05:57Z
+馃挕 [for 缃戣喘绾犵粨鏃廬 AI 璐喘鍐崇瓥鍙傝皨 - 浠庡埛3灏忔椂杩樺湪鐘硅鲍鍒?0绉掗攣瀹氭渶浼橀€夋嫨
+馃挕 [for 鍐呭鍒涗綔鐒﹁檻鏃廬 AI 鐏垫劅鐏姳鐐圭噧甯?- 浠庣洴鐫€绌虹櫧椤?灏忔椂鍒?绉掕扛鍙?0涓垎娆鹃€夐
+馃挕 [for 鍋滅數鎱屼贡鏃廬 AI 绐佸彂鍋滅數鍐烽潤瀹?- 浠庨粦鐏瀻鐏墜蹇欒剼涔卞埌3鍒嗛挓鍏ㄥ眿搴旀€ュ埌浣?2026-03-27T09:03:30Z
+馃挕 鏅鸿兘鏂囨。鎺ㄧ悊寮曟搸 - OCR + Reasoning 铻嶅悎鏂规
+馃挕 [for 璁叉晠浜嬬劍铏戝闀縘 AI 鍎跨鏁呬簨缂栫粐甯?- 浠庢瘡澶╂兂涓嶅嚭鏂版晠浜嬪埌3绉掔敓鎴愬瀛愪笓灞炴垚闀挎晠浜?2026-03-27T08:03:11Z
+馃挕 AI Agent 鎸佷箙鍖栬蹇嗗眰锛歁CP Memory Server 鍗忚
+馃挕 [for 闈㈣瘯鎭愭儳鏃廬 AI 妯℃嫙闈㈣瘯鏁欑粌 - 浠庣揣寮犵粨宸村埌浠庡鎷夸笅offer
+馃挕 Self-Evolving Research Agent: 閫氳繃浜や簰寮忚嚜鎴戞敼杩涘疄鐜?Agent 鎸佺画杩涘寲
+馃挕 [for 鐫″墠鍒锋墜鏈烘棌] AI 鎵嬫満瀹电娓╂煍瀹?- 浠庤秺鍒疯秺绮剧鍒版俯鏌旀斁涓嬫墜鏈哄畨蹇冨叆鐫?2026-03-27T06:03:52Z
+馃挕 Agent Memory Bridge: 璺?Agent 鍏变韩鎸佷箙鍖栬蹇嗗眰
+馃挕 [for 绉熸埧甯冪疆灏忕櫧] AI 绌洪棿瑙勫垝甯?- 浠庣┖鎴块棿鍙戝憜鍒?0鍒嗛挓鐢诲嚭娓╅Θ灏忕獫
+馃挕 [for 鏈嬪弸鍦堥厤鏂囧洶闅炬埛] AI 鏈嬪弸鍦堥厤鏂囩敓鎴愬笀 - 浠庢媿浜嗙収鍙戜笉鍑哄埌3绉掗厤鍑烘湁娓╁害鏂囨
+馃挕 [for 绾歌川鏂囨。鍥ょН鏃廬 AI 鏂囦欢鏌滅瀹?- 浠庣炕绠卞€掓煖鎵捐瘉浠跺埌3绉掓悳鍑轰换浣曟枃浠?2026-03-27T03:05:17Z
+馃挕 AI Agent 涓诲姩鍗忎綔鍔╂墜 - 闆嗘垚涓婁笅鏂囨劅鐭ヤ笌骞惰浠诲姟缂栨帓
+馃挕 [for 闈掓槬鏈熷闀縘 AI 浜插瓙娌熼€氱炕璇戝畼 - 浠庛€岃浜嗗氨鍚点€嶅埌銆屽瀛愭効鎰忓垎浜績閲岃瘽銆?2026-03-27T02:03:06Z
+馃挕 AI 浠ｇ悊宸ュ叿渚涘簲閾惧畨鍏ㄦ壂鎻忓櫒
+馃挕 [for 浣撴鎶ュ憡杩疯尗鏃廬 AI 浣撴鎶ュ憡缈昏瘧瀹?- 浠庣湅涓嶆噦寮傚父绠ご鍒?鍒嗛挓鐭ラ亾鑷繁璇ュ共鍢?2026-03-27T01:05:27Z
+馃挕 璺ㄥ钩鍙版闈?AI 浠ｇ悊鍗忎綔璋冨害骞冲彴
+馃挕 [for 澶栧崠鐐瑰埌鑵绘棌] AI 涓€鍛ㄩギ椋熻鍒掑笀 - 浠庢瘡澶╃籂缁撳悆浠€涔堝埌3鍒嗛挓鎼炲畾涓€鍛ㄨ彍鍗?2026-03-27T00:02:23Z
+馃挕 [for 浼氳璁板綍鍥伴毦鎴穄 AI 浼氳閫熻鏁寸悊瀹?- 浠庝細鍚庡嚟璁板繂鎷煎噾鍒?0鍒嗛挓瀹屾暣绾
+馃挕 [for 鐪嬫埧绾犵粨鏃廬 AI 鐪嬫埧鍐崇瓥鍙傝皨 - 浠庣湅10濂楄秺鐪嬭秺鎳靛埌3濂楅攣瀹氭渶浼樿В
+馃挕 [for 鍙戝畬娑堟伅灏卞悗鎮旀棌] AI 鎯呯华鍒硅溅鐗?- 浠庡啿鍔ㄥ彂鍑轰激浜鸿瘽鍒?绉掑喎闈欐敹浣?2026-03-26T20:02:14Z
+馃挕 [for 娓告垙缁勯槦绀炬亹鏃廬 AI 娓告垙缁勯槦鐮村啺瀹?- 浠庡崟鎺掑鐙埌杞绘澗鎵惧埌鍚堟媿闃熷弸
+馃挕 [for 璁板悕鍥伴毦鎴穄 AI 浜鸿劯璁板悕鍔╂墜 - 浠庤闈?绉掑繕鍚嶅埌涓嬫涓€鍙ｅ彨鍑?2026-03-26T13:02:28Z
+馃挕 AI 娴忚鍣ㄥ伐浣滄祦缂栨帓鍣細鏅鸿兘缃戦〉浠诲姟鑷姩鍖栧钩鍙?2026-03-26T12:01:11Z
+馃挕 Reasoning-Enhanced Document Intelligence Agent (R-DIA)
+馃挕 [for 寰俊鍥炲鐒﹁檻鏃廬 AI 寰俊鍥炲鏁欑粌 - 浠庡凡璇讳笉鍥炲按灏埌3绉掑緱浣撳洖澶?2026-03-26T08:06:03Z
+馃挕 Agent Memory Health Monitor - 璁板繂鍋ュ悍搴︾洃鎺х郴缁?2026-03-26T08:03:28Z
+馃挕 [for 鐫′笉鐫€鍒锋墜鏈烘棌] AI 鐫＄湢鏁呬簨缂栫粐甯?- 浠庤秺韬鸿秺娓呴啋鍒板惉鏁呬簨鑷劧鍏ョ潯
+馃挕 AI Agent 璇箟璁板繂鍒嗗眰绯荤粺 - 瑙ｅ喅澶氫細璇濅笂涓嬫枃鑶ㄨ儉
+馃挕 AI Agent 宸ヤ綔娴佸崗浣滃钩鍙?- 澶?Agent 缂栨帓涓庝笂涓嬫枃鍏变韩
+馃挕 [for 璺戞鏂版墜] AI 璺戞闄粌 - 浠庤窇500绫冲氨鍠樺埌杞绘澗瀹屾垚棣栦釜5鍏噷
+馃挕 Local-First AI Privacy Shield: 鏈湴浼樺厛鐨?AI 闅愮淇濇姢妗嗘灦
+馃挕 [for 鍑鸿鎷栧欢鐥嘳 AI 鏃呰娓呭崟绠″ - 浠庡嚭鍙戝墠澶滄厡涔辨墦鍖呭埌鎻愬墠3澶╂偁闂插噯澶?2026-03-26T01:08:19Z
+馃挕 AI 纰宠冻杩硅拷韪櫒 - 璁╂瘡涓€娆?AI 璋冪敤閮藉彲瑙?2026-03-26T01:02:07Z
+馃挕 [for 閭婚噷绀炬亹鏃廬 AI 閭婚噷娌熼€氱牬鍐板畼 - 浠庢暡闂ㄧ揣寮?娆℃斁寮冨埌1鍙ヨ瘽鍖栬В鐭涚浘
+馃挕 [for 鐞嗚储灏忕櫧] AI 鐞嗚储鍏ラ棬鏁欑粌 - 浠庨挶鏀鹃摱琛岃船鍊煎埌鏋勫缓绗竴浠借祫浜ч厤缃?2026-03-25T22:02:25Z
+馃挕 [for 鎷栧欢鏃廬 AI 鎷栧欢妯″紡鍒嗘瀽甯?- 浠庢瘡澶╄鏄庡ぉ鍋氬埌鎵惧埌鏍瑰洜3澶╂憜鑴卞惊鐜?2026-03-25T21:02:37Z
+馃挕 [for 鏃犺亰鏃跺埢鍒锋墜鏈烘棌] AI 鍩庡競寰帰闄╁悜瀵?- 浠庡埛鎵嬫満鎵撳彂鏃堕棿鍒板彂鐜拌韩杈归殣钘忔儕鍠?2026-03-25T19:03:13Z
+馃挕 [for 闂查奔鍗栧] AI 浜屾墜鐗╁搧瀹氫环甯?- 浠庡畾浠风籂缁?澶╁埌10鍒嗛挓涓婃灦
+馃挕 [for 濠氱ぜ鑷磋緸鐒﹁檻鑰匽 AI 濠氱ぜ鑷磋緸鏁欑粌 - 浠庡啓绋?澶╁崱澹冲埌3灏忔椂鍐欏嚭鍏ㄥ満钀芥唱鐨勬紨璁?2026-03-25T17:13:27Z
+馃挕 [for 鍣煶鍥版壈鏃廬 AI 灞呬綇鍣煶鍒嗘瀽甯?- 浠庢埓鐫€鑰冲杩樼潯涓嶇潃鍒版壘鍑哄櫔闊虫簮瀹夐潤鍏ョ潯
+馃挕 [for 鐙眳濂虫€ AI 澶滃綊瀹堟姢鑰?- 浠庣揣鎻℃墜鏈哄揩姝ヨ蛋鍒板畨蹇冭亰澶╄交鏉惧埌瀹?2026-03-25T13:03:45Z
+馃挕 [for 閫夋嫨鍥伴毦鐥嘳 AI 鏃ュ父閫夋嫨瑙ｇ粨甯?- 浠庣偣澶栧崠鍒?0鍒嗛挓鍒?绉掍笉绾犵粨
+馃挕 [for 鍘ㄦ埧灏忕櫧] AI 鎷挎墜鑿滃吇鎴愭暀缁?- 浠庡彧浼氱叜娉￠潰鍒?0澶╂悶瀹?0閬撶‖鑿?2026-03-25T10:03:21Z
+馃挕 OCR+LLM 鏅鸿兘鏂囨。鐞嗚В绯荤粺 - 澶氭ā鎬佽瀺鍚堢殑鏂囨。澶勭悊 Agent
+馃挕 [for 鑱氫細绀炬亹鏃廬 AI 鑱氫細鐮村啺鍔╂墜 - 浠庤钀界帺鎵嬫満鍒拌亰鎴愬叏鍦虹劍鐐?2026-03-25T08:05:09Z
+馃挕 [for 绐佸彂鐘跺喌鎵嬪繖鑴氫贡鑰匽 AI 绐佸彂鐘跺喌鍐烽潤瀹?- 浠庡ぇ鑴戜竴鐗囩┖鐧藉埌30绉掑唴鏈夋潯涓嶇磰琛屽姩
+馃挕 Personal Memory Cloud - 涓汉 AI 璁板繂浜?2026-03-25T07:02:08Z
+馃挕 Smart Infrastructure over Model Scale: Consumer-Grade AI Coding Systems
+馃挕 [for 绀炬亹搴旂瓟鍥伴毦鎴穄 AI 绀句氦搴旂瓟鍔╂墜 - 浠庤鐐瑰悕灏卞崱澹冲埌3绉掓帴浣忚瘽棰?2026-03-25T05:03:15Z
+馃挕 [for 鑱屽満鍊︽€犳棌] AI 鑳介噺瀹堟姢鑰?- 浠庢瘡澶╅啋鏉ュ氨绱埌閲嶆柊鎵惧洖宸ヤ綔鐑儏
+馃挕 AI Workflow Orchestra - 缁熶竴缂栨帓澶氫釜 AI Agent 鐨勫彲瑙嗗寲骞冲彴
+馃挕 AI Detox: 鍐呭娴佷腑鐨?AI 璇濋杩囨护鍣?2026-03-25T02:01:17Z
+馃挕 [for 鑱屽満鏂颁汉] AI 1瀵?浼氳鏁欑粌 - 浠庤鍔ㄥ簲绛斿埌涓诲姩灞曠ず浠峰€?2026-03-25T01:08:02Z
+馃挕 AI 骞昏妫€娴嬩笌浜嬪疄楠岃瘉宸ュ叿
+馃挕 [for 鎷栧欢鐥囨櫄鏈焆 AI 浠婃棩琛屽姩鍌寲鍓?- 浠庢槑澶╁啀璇翠竴閬嶉亶鍒颁粖澶╂悶瀹氬績涓嶇疮
+馃挕 [for 绀炬亹鍗曡韩鏃廬 AI 绾︿細璇濋鏁欑粌 - 浠庡艾鑱婂喎鍦哄埌鑱婂埌瀵规柟涓嶆兂璧?2026-03-24T19:02:26Z
+馃挕 [for 鑱屽満姹囨姤鐒﹁檻鑰匽 AI 姹囨姤琛ㄨ揪鏁欑粌 - 浠庢眹鎶ユ椂鎵嬫姈澶ц剳绌虹櫧鍒颁粠瀹规祦鐣呮湁鏁版嵁
+馃挕 [for 鏂版墜鍙告満] AI 寮€杞﹂櫔缁?- 浠庝笂璺揣寮犳墜蹇冨嚭姹楀埌杞绘澗椹鹃┒鏁㈠彉閬撹秴杞?2026-03-24T17:02:57Z
+馃挕 [for 缁存潈灏忕櫧] AI 娑堣垂鑰呯淮鏉冨姪鎵?- 浠庤鍟嗗鏁疯鍒拌嚜鍔ㄧ敓鎴愪笓涓氭姇璇夋枃妗?2026-03-24T14:06:27Z
+馃挕 [for 鑱氫細鍔濋厭鍙楀鑰匽 AI 閰掑眬鎸＄鐗?- 浠庤鐏岄厭浼よ韩鍒颁紭闆呮嫆缁濊繕鐣欓潰瀛?2026-03-24T12:05:01Z
+馃挕 浣庝唬鐮?Web 鑷姩鍖?Agent 骞冲彴
+馃挕 [for 鍘ㄦ埧鍋ュ繕鏃廬 AI 鍘ㄦ埧瀹夊叏鍝ㄥ叺 - 鐑у共閿呫€佸繕鍏崇伀锛屼笉鍐嶆彁蹇冨悐鑳?2026-03-24T09:07:19Z
+馃挕 娴忚鍣ㄧ瀹炴椂鎬濈淮閾惧彲瑙嗗寲鍗忎綔骞冲彴
+馃挕 [for 绀肩墿鐒﹁檻鑰匽 AI 绀肩墿椤鹃棶 - 鍛婂埆閫佺ぜ绾犵粨锛屾瘡娆￠兘閫佸埌蹇冨潕閲?2026-03-24T08:06:01Z
+馃挕 Auto-Updating AGENTS.md: Git Hook + AI Agent 瀹炴椂鍚屾椤圭洰鏂囨。
+馃挕 鍩轰簬鑷洖褰掓墿鏁ｇ殑瀹炴椂闀胯棰戠敓鎴愬钩鍙?2026-03-24T07:02:30Z
+馃挕 [for 璺ㄤ唬瀹跺涵] AI 浠ｉ檯娌熼€氱炕璇戝畼 - 璁╃埗姣嶅拰鎴愬勾瀛愬コ鐪熸鍚噦褰兼
+馃挕 AI 璁烘枃澶嶇幇浠ｇ悊锛氳嚜鍔ㄥ寲鐮旂┒浠ｇ爜鐢熸垚鍣?2026-03-24T06:02:04Z
+馃挕 [for 鑰冪爺鍏歖 AI 澶囪€冨啿鍒轰紮浼?- 90澶╀粠400鍒嗗埌涓婂哺鐩爣闄㈡牎
+馃挕 [for 鏁板瓧娓告皯] AI 宸ヤ綔绌洪棿鐚庝汉 - 鍒颁簡灏辩煡閬撳摢閲岃兘楂樻晥鍔炲叕
+馃挕 [for 闂茬疆鍥ょН鍏歖 AI 浜屾墜浜ゆ槗鍔╂墜 - 鎷嶇収浼颁环锛?0绉掍笂鏋跺彉鐜?2026-03-24T02:22:47Z
+馃挕 Agent Knowledge Commons - AI 浠ｇ悊鐨勫崗浣滅煡璇嗙綉缁?2026-03-24T01:04:40Z
+馃挕 [for 妞嶇墿鏉€鎵媇 AI 缁挎璇婃墍 - 鎷嶇収璇婃柇鐥呭洜锛?澶╂嫰鏁戞灟钀庣豢妞?2026-03-23T23:10:59Z
+馃挕 [for 杩滅▼宸ヤ綔鑰匽 AI 铏氭嫙鑼舵按闂?- 鍛婂埆瀛ょ嫭锛屾瘡澶?5 鍒嗛挓閲嶅缓鑱屽満褰掑睘鎰?2026-03-23T22:13:51Z
+馃挕 [for 鑱屽満绀炬亹] AI 绀句氦鐮村啺鏁欑粌 - 3涓湀浠庤翰閬垮悓浜嬪埌鑷俊琛ㄨ揪
+馃挕 [for 涔愬櫒鏂版墜] AI 闆跺熀纭€涔愬櫒闄粌 - 30澶╁脊鍑虹涓€棣栧畬鏁存洸瀛?2026-03-23T19:07:57Z
+馃挕 [for 绉熸埧鏃廬 AI 楠屾埧鍗＋ - 鍏ヤ綇閫€鎴垮叏璁板綍锛屽憡鍒娂閲戠籂绾?2026-03-23T18:16:53Z
+馃挕 [for 鏂版墜鐖舵瘝] AI 濠村効鍝０缈昏瘧瀹?- 鍚噦瀹濆疂鐨勬瘡涓€娆″摥娉?2026-03-23T17:05:13Z
+馃挕 [for 閾跺彂鏃廬 AI 鏅鸿兘鐢ㄨ嵂绠″ - 璁╁閲嶇敤鑽笉鍐嶆贩涔卞嵄闄?2026-03-23T14:06:01Z
+馃挕 [for 鐙眳浜哄＋] AI 瀹夊叏瀹堟姢鍝ㄥ叺 - 24灏忔椂闈欓粯瀹堟姢锛屽紓甯歌嚜鍔ㄩ璀?2026-03-23T13:02:29Z
+馃挕 [for 閫氬嫟鏃廬 AI 閫氬嫟鏃跺厜杞寲鍣?- 鎶婂湴閾佹椂闂村彉鎴愭垚闀挎椂闂?2026-03-23T12:03:35Z
+馃挕 鏅鸿兘缃戦〉浠诲姟鑷姩鍖?Agent
+馃挕 [for 涓勾杞瀷鑰匽 AI 鑱屼笟绗簩鏇茬嚎鎺㈢储鍣?- 浠庤糠鑼埌鎵惧埌鏂版柟鍚?2026-03-23T11:03:08Z
+馃挕 [for 瀹堕暱] AI 鍎跨鎯呯华姘旇薄绔?- 鍙婃棭鍙戠幇瀛╁瓙鐨勭劍铏戜俊鍙?2026-03-23T10:05:13Z
+馃挕 DocMind: 澶氭ā鎬佹櫤鑳芥枃妗ｇ悊瑙ｄ笌鎺ㄧ悊鍔╂墜
+馃挕 AI 瀹舵棌璁板繂浼犳壙鍔╂墜 - 璁╅暱杈堢殑鏁呬簨姘稿瓨
+馃挕 MCP Guard: 閫氱敤 MCP 瀹夊叏浠ｇ悊灞?2026-03-23T08:01:55Z
+馃挕 AI 鏁板瓧閬椾骇瀹堟姢鑰?- 璁╂暟瀛楄祫浜ф寜鎰忔効浼犳壙
+馃挕 AI 绉戠爺鍔╂墜锛氳姣忎釜浜洪兘鎷ユ湁鑷繁鐨勭瀛﹀搧鍛?2026-03-23T07:01:39Z
+馃挕 AI 鍐ユ兂寮曞甯?- 鏍规嵁鎯呯华鐘舵€佸畾鍒跺啣鎯充綋楠?2026-03-23T06:04:09Z
+馃挕 AcademicBridge - 甯姪鐙珛鐮旂┒鑰?瀛︽湳鐣屽弬涓?AI 鍓嶆部鐮旂┒
+馃挕 AI 灞呭缁翠慨璇婃柇鍔╂墜 - 鎷嶇収璇嗗埆闂锛岀粰鍑虹淮淇柟妗?2026-03-23T05:02:06Z
+馃挕 AI 绱ф€ユ儏鍐靛搷搴斿姪鎵?- 鍗辨€ユ椂鍒荤殑鍐烽潤浼欎即
+馃挕 AI Agent 宸ヤ綔娴佸崗浣滃钩鍙?- 璁?Claude Code銆丆ursor銆丆opilot 鏃犵紳鍗忎綔
+馃挕 AI 鍒涗綔鑰呭唴瀹规寚绾瑰畧鎶よ€?- 璁╁師鍒涗綔鍝佽嚜鍔ㄨ拷韪笌缁存潈
+馃挕 AI 鐏垫劅鎹曟崏涓庡鍖栧櫒 - 璁╂瘡涓€涓伀鑺遍兘鏈夋満浼氱噹鍘?2026-03-23T02:05:51Z
+馃挕 绂荤嚎浼樺厛鐨?AI 鐭ヨ瘑鍔╂墜 - 姘镐笉鎺夌嚎鐨勬櫤鑳界煡璇嗗簱
+馃挕 AI 楗钀ュ吇鍒嗘瀽甯?- 鎷嶇収鍗崇煡浣犲悆浜嗕粈涔?2026-03-23T01:04:56Z
+馃挕 AI 鍐呭鐪熷疄鎬ч獙璇佷笌韬唤淇濇姢骞冲彴
+馃挕 AI 瀹跺涵璐㈠姟鍋ュ悍椤鹃棶 - 璁╅挶琚嬪瓙鑷繁鍛婅瘔浣犻棶棰樺湪鍝?2026-03-23T00:02:22Z
+馃挕 AI 涓汉鐭ヨ瘑鍥捐氨鏋勫缓鍣?- 鑷姩鍙戠幇绗旇闂寸殑闅愯棌杩炴帴
+馃挕 AI 瀹犵墿鍋ュ悍鏃ュ織鍒嗘瀽甯?- 浠庢棩甯歌褰曞彂鐜版綔鍦ㄩ棶棰?2026-03-22T17:14:54Z
+馃挕 AI 涓汉鍝佺墝鍐呭绛栧睍鍔╂墜 - 鎵撻€犱竴鑷存€т笓涓氬舰璞?2026-03-22T03:02:17Z
+馃挕 AI 鍥㈤槦鍗忎綔娓╁害璁?- 閲忓寲鍥㈤槦娌熼€氬仴搴峰害
+馃挕 BrowserAI: 鍩轰簬 WebGPU 鐨勫畬鍏ㄦ湰鍦板寲娴忚鍣?AI 鍔╂墜
+馃挕 AI 璐墿鍐崇瓥鍔╂墜 - 鏅鸿兘姣斾环涓庣湡瀹炶瘎浠峰垎鏋?2026-03-22T01:02:30Z
+馃挕 AI Agent Payment Gateway - 璁?AI 浠ｇ悊鑷富瀹屾垚鏀粯
+馃挕 AI 鍐欎綔鍒涗綔浼翠荆 - 浠庣伒鎰熸崟鎹夊埌浣滃搧瀹屾垚鐨勬櫤鑳戒紮浼?2026-03-21T20:02:06Z
+馃挕 AI 鎯呯华妯″紡渚︽帰 - 鍙戠幇褰卞搷浣犲績鎯呯殑闅愯棌鍥犵礌
+馃挕 AI 杩愬姩鍋ヨ韩瀹炴椂鏁欑粌 - 澶氭ā鎬佸Э鍔垮垎鏋愪笌鏅鸿兘鍙嶉
+馃挕 鏅鸿兘浠ｇ爜杩佺Щ鍐崇瓥寮曟搸 - 鍩轰簬鐪熷疄鎬ц兘鏁版嵁鐨勮瑷€閫夋嫨鍔╂墜
+馃挕 AI 鏃呰瑙勫垝鍔╂墜 - 浠庢兂娉曞埌瀹屾暣琛岀▼鐨勪竴閿敓鎴?2026-03-21T15:02:21Z
+馃挕 AI 铏氭嫙琛ｆ┍绠″ - 鏅鸿兘绌挎惌寤鸿涓庤喘鐗╁喅绛栧姪鎵?2026-03-21T13:02:05Z
+馃挕 AI 鐓х墖璁板繂鏁寸悊鍔╂墜 - 鏅鸿兘鍒嗙被銆佸幓閲嶄笌鍥炲繂鐢熸垚
+馃挕 AI 鐫＄湢鏁呬簨鐢熸垚鍣?- 鏍规嵁褰撴棩鐘舵€佸畾鍒朵釜鎬у寲鐫″墠浣撻獙
+馃挕 AI 涓撴敞鍔涢煶涔愮敓鎴愬櫒 - 鏍规嵁宸ヤ綔鐘舵€佸姩鎬佽皟鏁磋儗鏅煶涔?2026-03-20T23:02:02Z
+馃挕 AI 绀句氦璁板繂鍔╂墜 - 鏅鸿兘缁存姢浜洪檯鍏崇郴缃戠粶
+馃挕 AI 鍐扮绠″ - 椋熸潗鏅鸿兘绠＄悊涓庤彍璋辨帹鑽?2026-03-20T20:01:56Z
+馃挕 AI 椤圭洰椹卞姩瀛︿範骞冲彴
+馃挕 鍒涙剰锛欰I 鐢熸垚涓€у寲鏂伴椈鎽樿鎾
