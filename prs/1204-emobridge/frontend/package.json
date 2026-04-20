@@ -1,0 +1,49 @@
+{
+  "name": "emobridge-frontend",
+  "version": "1.0.0",
+  "description": "EmoBridge AI情感识别康复平台前端界面",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "lint": "eslint . --ext js,jsx,ts,tsx --max-warnings 0",
+    "lint:fix": "eslint . --ext js,jsx,ts,tsx --max-warnings 0 --fix"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.8.0",
+    "axios": "^1.3.0",
+    "recharts": "^2.5.0",
+    "antd": "^5.7.0",
+    "@ant-design/icons": "^5.2.6",
+    "dayjs": "^1.11.7",
+    "lodash": "^4.17.21",
+    "socket.io-client": "^4.6.1"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.37",
+    "@types/react-dom": "^18.0.11",
+    "@types/lodash": "^4.14.191",
+    "@typescript-eslint/eslint-plugin": "^6.0.0",
+    "@typescript-eslint/parser": "^6.0.0",
+    "@vitejs/plugin-react": "^4.0.0",
+    "eslint": "^8.45.0",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "eslint-plugin-react-refresh": "^0.4.3",
+    "typescript": "^5.0.2",
+    "vite": "^4.4.5"
+  },
+  "keywords": [
+    "ai",
+    "emotion-recognition",
+    "rehabilitation",
+    "healthcare",
+    "digital-twin",
+    "vr",
+    "ar"
+  ],
+  "author": "EmoBridge Team",
+  "license": "MIT"
+}

@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="EmoBridge - AI情感识别康复平台，专为康复治疗师设计的智能康复系统">
+  <meta name="keywords" content="AI,情感识别,康复治疗,数字孪生,VR治疗,智能医疗">
+  <title>EmoBridge - AI情感识别康复平台</title>
+  
+  <!-- Favicon -->
+  <link rel="icon" type="image/svg+xml" href="/favicon.svg">
+  
+  <!-- Preload fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+  
+  <!-- Tailwind CSS -->
+  <script src="https://cdn.tailwindcss.com"></script>
+  
+  <!-- Animate.css -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css">
+  
+  <!-- Custom styles -->
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+    
+    body {
+      font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+      min-height: 100vh;
+    }
+    
+    .glass-effect {
+      background: rgba(255, 255, 255, 0.1);
+      backdrop-filter: blur(10px);
+      border: 1px solid rgba(255, 255, 255, 0.2);
+    }
+    
+    .pulse-animation {
+      animation: pulse 2s infinite;
+    }
+    
+    @keyframes pulse {
+      0% { transform: scale(1); opacity: 1; }
+      50% { transform: scale(1.05); opacity: 0.8; }
+      100% { transform: scale(1); opacity: 1; }
+    }
+    
+    .fade-in {
+      animation: fadeIn 0.5s ease-in;
+    }
+    
+    @keyframes fadeIn {
+      from { opacity: 0; transform: translateY(20px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+    
+    .loading-spinner {
+      border: 3px solid rgba(255, 255, 255, 0.3);
+      border-radius: 50%;
+      border-top: 3px solid #fff;
+      width: 40px;
+      height: 40px;
+      animation: spin 1s linear infinite;
+    }
+    
+    @keyframes spin {
+      0% { transform: rotate(0deg); }
+      100% { transform: rotate(360deg); }
+    }
+  </style>
+</head>
+<body>
+  <div id="root"></div>
+  
+  <!-- Scripts -->
+  <script type="module" src="/src/main.tsx"></script>
+  
+  <!-- Global styles -->
+  <style>
+    .emotion-happy { color: #52c41a; }
+    .emotion-sad { color: #1890ff; }
+    .emotion-angry { color: #ff4d4f; }
+    .emotion-fear { color: #722ed1; }
+    .emotion-neutral { color: #8c8c8c; }
+    .emotion-concentrated { color: #faad14; }
+    .emotion-confused { color: #13c2c2; }
+    .emotion-frustrated { color: #fa8c16; }
+    
+    .status-active { background: linear-gradient(45deg, #52c41a, #73d13d); }
+    .status-paused { background: linear-gradient(45deg, #faad14, #ffc53d); }
+    .status-completed { background: linear-gradient(45deg, #1890ff, #40a9ff); }
+    .status-scheduled { background: linear-gradient(45deg, #8c8c8c, #bfbfbf); }
+    
+    .metric-card {
+      background: rgba(255, 255, 255, 0.95);
+      backdrop-filter: blur(10px);
+      border-radius: 16px;
+      padding: 24px;
+      box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
+      transition: transform 0.3s ease, box-shadow 0.3s ease;
+    }
+    
+    .metric-card:hover {
+      transform: translateY(-5px);
+      box-shadow: 0 16px 48px rgba(0, 0, 0, 0.15);
+    }
+  </style>
+</body>
+</html>
