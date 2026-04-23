@@ -26,7 +26,7 @@
 <a href="https://github.com/ava-agent/awesome-ai-ideas/commits"><img src="https://img.shields.io/github/last-commit/ava-agent/awesome-ai-ideas?style=flat-square" alt="Last Commit"></a>&nbsp;
 <a href="https://github.com/ava-agent/awesome-ai-ideas/commits"><img src="https://img.shields.io/github/commit-activity/m/ava-agent/awesome-ai-ideas?style=flat-square" alt="Commit Activity"></a>&nbsp;
 <a href="https://github.com/ava-agent/awesome-ai-ideas/graphs/contributors"><img src="https://img.shields.io/github/contributors/ava-agent/awesome-ai-ideas?style=flat-square" alt="Contributors"></a>&nbsp;
-<img src="https://img.shields.io/badge/ideas-60+-blue?style=flat-square" alt="Ideas">
+<img src="https://img.shields.io/badge/ideas-245+-blue?style=flat-square" alt="Ideas">
 
 <br>
 
@@ -284,11 +284,10 @@ _破冰、跨代沟通、数字素养 — AI 助力人际连接。_
 
 | 阶段 | 说明 | 数量 |
 |------|------|:----:|
-| ⭐ 详细设计 | 经过 PR 评审的完整设计方案 | 23 |
-| 🟢 可开发 | 已评审，可直接开始开发 | 34 |
-| 💡 提案中 | 早期想法，欢迎讨论完善 | 4 |
-| 📋 RFC | 技术规格文档 | 1 |
-| **总计** | | **62** |
+| ⭐ 已提交提案 | prs/ 目录中经过 PR 评审的完整设计方案 | 45 |
+| 💡 Issues (Open) | 待讨论和完善的创意提案 | 139 |
+| ✅ Issues (Closed) | 已合并或完成的创意 | 61 |
+| **总计** | | **245** |
 
 ---
 
@@ -296,21 +295,20 @@ _破冰、跨代沟通、数字素养 — AI 助力人际连接。_
 
 ### 提交新创意
 
-| 你的想法成熟度 | 提交到 | 说明 |
-|---------------|--------|------|
-| 💡 有初步想法 | [`proposals/`](./proposals) | 用几段话描述核心想法即可 |
-| 🟢 想法较成熟 | [`ideas/`](./ideas) | 按[模板](./TEMPLATE.md)填写完整方案 |
-| ⭐ 有完整设计 | 创建 PR 到 [`pr/`](./pr) | 包含完整技术方案和商业分析 |
+| 你的想法成熟度 | 提交方式 | 说明 |
+|---------------|----------|------|
+| 💡 有初步想法 | [创建 Issue](../../issues/new) | 用几段话描述核心想法即可 |
+| ⭐ 有完整设计 | 提交 PR 到 [`prs/`](./prs) | 包含完整技术方案和商业分析 |
 
 ### 其他参与方式
 
-- **讨论创意** — 对现有创意有想法？[打开 Issue](../../issues/new) 一起聊
+- **讨论创意** — 对现有创意有想法？在对应 Issue 下留言
 - **认领实现** — 想把某个创意变成现实？在创意文档下留言
 - **改进建议** — 发现可以优化的地方？直接提交 PR
 
 ### 创意文档结构
 
-每个创意建议包含以下章节，详见 [`TEMPLATE.md`](./TEMPLATE.md)：
+每个创意建议包含以下章节：
 
 ```
 概述 → 功能设计 → 技术方案 → 实现步骤 → 资源需求 → 变现模式 → 竞品分析 → 风险与缓解
@@ -323,15 +321,20 @@ _破冰、跨代沟通、数字素养 — AI 助力人际连接。_
 
 ```
 awesome-ai-ideas/
-├── ideas/              # 🟢 已评审创意（29 个，可直接开发）
-├── pr/                 # ⭐ 详细设计方案（14 个，经过 PR 评审）
-├── prs/                # ⭐ PR 提交的设计方案（13 个）
-├── proposals/          # 💡 早期提案（5 个，待讨论完善）
-├── docs/rfc/           # 📋 技术 RFC 文档
-├── .github/            # Issue 和 PR 模板
-├── TEMPLATE.md         # 创意文档模板
-├── README.md           # 中文文档（本文件）
-└── README_EN.md        # English documentation
+├── prs/                    # ⭐ 已提交提案（45 个，经过 PR 评审）
+├── docs/                   # 📚 项目文档
+│   ├── reports/            # 开发报告
+│   ├── health-checks/      # 健康检查
+│   └── metrics/            # 指标分析
+├── scripts/                # 🔧 开发脚本和工具
+├── logs/                   # 📝 日常反思与操作日志
+├── memory/                 # 💾 项目记忆
+├── tests/                  # 🧪 测试文件
+├── workspace/              # 🛠️ 工作区
+├── .github/                # Issue 和 PR 模板
+│   └── workflows/          # CI/CD 工作流
+├── README.md               # 中文文档（本文件）
+└── requirements.txt        # 依赖配置
 ```
 
 &nbsp;
