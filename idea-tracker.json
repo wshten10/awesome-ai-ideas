@@ -11,6 +11,26 @@
     "commercialPotential": "商业化潜力 (1-10)"
   },
   "ideas": {
+    "logi-chain-ai": {
+      "name": "LogiChain AI - 智能供应链管理系统",
+      "file": "供应链智能-LogiChain-AI.md",
+      "status": "created",
+      "category": "B2B企业级AI",
+      "focusAreas": ["供应链", "物流优化", "制造业", "零售业"],
+      "scores": {
+        "technicalFeasibility": 9,
+        "marketDemand": 9,
+        "innovation": 8,
+        "developmentCost": 7,
+        "commercialPotential": 10
+      },
+      "totalScore": 8.6,
+      "summary": "AI驱动的智能供应链管理，解决制造业和零售业的供应链混乱问题",
+      "priority": 1,
+      "createdAt": "2026-04-21T07:02:00Z",
+      "estimatedROI": "30-50%成本降低，20-35%效率提升",
+      "paybackPeriod": "9-24个月"
+    },
     "ai-appointment-manager": {
       "name": "AI 预约管家",
       "file": "ai-appointment-manager.md",
