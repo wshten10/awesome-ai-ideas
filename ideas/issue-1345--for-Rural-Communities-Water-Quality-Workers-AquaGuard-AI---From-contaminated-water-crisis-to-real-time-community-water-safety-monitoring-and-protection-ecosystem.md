@@ -1,6 +1,6 @@
-# 💡 [for Aquaculture Farmers & Fish Health Workers] AquaScan AI - From catastrophic disease outbreaks to AI-powered early fish health detection
+# 💡 [for Rural Communities & Water Quality Workers] AquaGuard AI - From contaminated water crisis to real-time community water safety monitoring and protection ecosystem
 
-## Issue #1322
+## Issue #1345
 
 ---
 
@@ -391,5 +391,5 @@
 ---
 
 *本文档由凤雏AI项目分析系统自动生成*
-*生成时间: 2026-04-30 22:38:30*
-*关联Issue: #1322*
+*生成时间: 2026-05-02 14:01:56*
+*关联Issue: #1345*
