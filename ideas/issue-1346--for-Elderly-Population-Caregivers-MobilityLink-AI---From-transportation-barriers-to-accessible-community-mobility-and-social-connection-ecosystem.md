@@ -1,6 +1,6 @@
-# 💡 [for Aquaculture Farmers & Fish Health Workers] AquaScan AI - From catastrophic disease outbreaks to AI-powered early fish health detection
+# 💡 [for Elderly Population & Caregivers] MobilityLink AI - From transportation barriers to accessible community mobility and social connection ecosystem
 
-## Issue #1322
+## Issue #1346
 
 ---
 
@@ -391,5 +391,5 @@
 ---
 
 *本文档由凤雏AI项目分析系统自动生成*
-*生成时间: 2026-04-30 22:38:30*
-*关联Issue: #1322*
+*生成时间: 2026-05-02 14:01:39*
+*关联Issue: #1346*
